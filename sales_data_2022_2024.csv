@@ -1,0 +1,1001 @@
+SaleDate,Region,Cust_Type,Customer,Segment,Category,Model,Color,ListPrice,OrderQty,Gross_Sales_Amt,Disc_%,Net_Sales_Amt
+02-04-2022,United Kingdom,Gold,"Jones, Lyons and Hernandez",Accessories,Mountain,Model-B,Black,596,5,2980,10,2682
+10-10-2023,Canada,Silver,Bolton-Williams,Accessories,Road,Model-A,Black,1085,3,3255,0,3255
+04-01-2023,United States,Silver,Myers-Tucker,Bikes,Road,Model-C,White,887,1,887,15,753.95
+20-09-2024,France,Silver,Lewis-Adams,Bikes,Hybrid,Model-B,White,1490,1,1490,5,1415.5
+05-09-2023,Canada,Platinum,Stout-Dean,Clothing,Electric,Model-D,Black,563,3,1689,15,1435.65
+19-04-2022,Australia,Gold,"Smith, Wilson and Davis",Accessories,Road,Model-B,Green,1290,3,3870,0,3870
+16-07-2024,France,Gold,"Lucas, Browning and Ross",Clothing,Mountain,Model-D,Blue,1777,3,5331,5,5064.45
+05-03-2023,United Kingdom,Platinum,Mills-Johnson,Clothing,Road,Model-C,Blue,1323,4,5292,10,4762.8
+20-03-2024,France,Gold,Simpson and Sons,Accessories,Hybrid,Model-B,Yellow,1463,2,2926,20,2340.8
+15-10-2024,France,Platinum,Trevino and Sons,Accessories,Mountain,Model-B,Black,1430,2,2860,10,2574
+07-07-2022,United Kingdom,Gold,Scott-Joseph,Clothing,Mountain,Model-A,White,951,5,4755,0,4755
+28-11-2024,Australia,Silver,Hill-Brown,Components,Electric,Model-A,Yellow,1486,4,5944,15,5052.4
+07-11-2022,Australia,Silver,"Mcintosh, Thompson and Knight",Bikes,Electric,Model-C,Blue,1434,2,2868,0,2868
+18-11-2022,United Kingdom,Platinum,"Rivera, Johnston and Lopez",Accessories,Mountain,Model-B,White,918,4,3672,15,3121.2
+04-12-2022,Australia,Platinum,Mcmillan-Green,Clothing,Mountain,Model-B,Red,738,4,2952,20,2361.6
+13-01-2022,Australia,Platinum,Henderson-Johnston,Clothing,Hybrid,Model-A,Green,1072,5,5360,20,4288
+09-12-2023,Germany,Platinum,"Pena, Turner and Higgins",Clothing,Road,Model-B,Yellow,596,4,2384,5,2264.8
+30-06-2024,France,Gold,Flores LLC,Components,Mountain,Model-B,Red,1438,2,2876,0,2876
+19-06-2024,Australia,Gold,Lee-Pittman,Components,Electric,Model-A,White,1702,1,1702,15,1446.7
+05-10-2024,United States,Platinum,"Vargas, Walker and Beck",Clothing,Road,Model-B,Green,601,3,1803,10,1622.7
+26-04-2023,United States,Silver,Li-Wolf,Bikes,Hybrid,Model-D,Red,1927,3,5781,15,4913.85
+16-02-2024,Germany,Gold,Huffman-Williams,Bikes,Electric,Model-C,Yellow,1511,1,1511,10,1359.9
+27-08-2024,Australia,Platinum,"White, Evans and Saunders",Accessories,Electric,Model-C,Green,1378,1,1378,15,1171.3
+29-06-2022,United States,Silver,Fernandez-Johnson,Accessories,Mountain,Model-C,Blue,668,1,668,20,534.4
+02-06-2022,Australia,Platinum,Wilson Group,Components,Electric,Model-A,Black,731,5,3655,20,2924
+06-06-2023,Germany,Silver,Turner Inc,Components,Hybrid,Model-B,Green,1337,3,4011,20,3208.8
+19-08-2024,Australia,Silver,Hart and Sons,Clothing,Hybrid,Model-A,Yellow,788,3,2364,10,2127.6
+31-05-2022,United Kingdom,Gold,"Greene, Webster and Wright",Accessories,Mountain,Model-A,White,1067,5,5335,15,4534.75
+30-08-2022,United States,Platinum,Wilson Inc,Bikes,Hybrid,Model-D,Red,901,5,4505,10,4054.5
+10-10-2022,Germany,Gold,Patterson and Sons,Components,Hybrid,Model-B,Blue,316,1,316,0,316
+10-01-2022,United States,Gold,Byrd LLC,Clothing,Mountain,Model-A,Yellow,971,5,4855,15,4126.75
+16-02-2022,Australia,Silver,Everett LLC,Bikes,Road,Model-B,Blue,1541,3,4623,20,3698.4
+24-10-2024,Canada,Silver,"Walker, Schultz and Alexander",Components,Road,Model-B,Green,1977,2,3954,10,3558.6
+31-07-2024,France,Silver,"Scott, Bass and Harris",Clothing,Mountain,Model-B,Yellow,383,1,383,0,383
+02-07-2022,Australia,Platinum,"Carroll, Robinson and Jackson",Bikes,Electric,Model-A,Black,1274,1,1274,0,1274
+29-01-2022,United Kingdom,Silver,Johnson Inc,Clothing,Electric,Model-C,Green,593,1,593,0,593
+29-11-2023,Germany,Gold,"Edwards, Stevens and Gibson",Components,Hybrid,Model-C,Black,559,1,559,0,559
+17-04-2024,Germany,Gold,Myers-Klein,Clothing,Electric,Model-D,Black,226,1,226,15,192.1
+10-03-2024,Australia,Platinum,"Romero, Carter and Meyer",Clothing,Mountain,Model-A,Green,934,2,1868,5,1774.6
+04-09-2022,Australia,Silver,"Hancock, Beck and Vasquez",Components,Hybrid,Model-B,Black,1148,3,3444,20,2755.2
+20-11-2024,France,Silver,Carroll Ltd,Bikes,Electric,Model-C,White,549,4,2196,5,2086.2
+24-11-2024,Australia,Gold,"Ryan, Ortiz and Campbell",Bikes,Electric,Model-D,Black,307,1,307,10,276.3
+12-07-2023,Germany,Gold,Smith Group,Accessories,Electric,Model-D,Black,1205,3,3615,5,3434.25
+16-05-2024,Germany,Gold,Gibson-Ford,Accessories,Hybrid,Model-B,Red,242,1,242,15,205.7
+07-02-2024,Germany,Silver,Berg Inc,Components,Electric,Model-B,Green,1826,3,5478,0,5478
+30-05-2023,United States,Silver,Williams-Waller,Components,Hybrid,Model-D,Blue,1243,4,4972,5,4723.4
+21-11-2022,Australia,Platinum,Rhodes-Hughes,Clothing,Road,Model-A,Green,1046,1,1046,15,889.1
+04-01-2024,Australia,Silver,Mccall-Reid,Bikes,Hybrid,Model-B,Blue,1498,2,2996,10,2696.4
+26-11-2023,Canada,Silver,Castillo Inc,Components,Mountain,Model-B,Black,883,2,1766,5,1677.7
+05-06-2022,Canada,Platinum,"Humphrey, Lopez and Sandoval",Accessories,Mountain,Model-B,Black,380,5,1900,20,1520
+20-09-2023,Germany,Platinum,Schmidt Inc,Components,Road,Model-A,Blue,352,4,1408,0,1408
+17-12-2022,United Kingdom,Silver,Daniels Ltd,Components,Electric,Model-B,White,1549,3,4647,15,3949.95
+13-06-2024,United Kingdom,Silver,Fry PLC,Bikes,Road,Model-B,Red,1830,2,3660,0,3660
+08-03-2022,Australia,Gold,"Snow, Miller and Rodriguez",Accessories,Hybrid,Model-D,Yellow,167,5,835,20,668
+10-02-2023,France,Gold,"Murray, Farmer and Harper",Accessories,Road,Model-A,Green,1386,2,2772,5,2633.4
+24-03-2023,Germany,Platinum,Taylor Ltd,Components,Electric,Model-D,Blue,667,1,667,0,667
+26-06-2022,United States,Platinum,"Molina, Clark and Williams",Bikes,Mountain,Model-D,Black,349,1,349,15,296.65
+20-09-2022,United States,Gold,Quinn PLC,Accessories,Mountain,Model-A,Yellow,1949,3,5847,10,5262.3
+17-03-2023,Germany,Silver,"Camacho, Nelson and Smith",Components,Road,Model-A,Black,1739,4,6956,0,6956
+22-11-2024,Germany,Silver,Rhodes-Smith,Accessories,Hybrid,Model-B,Black,756,2,1512,20,1209.6
+19-12-2023,Germany,Platinum,Harrison Inc,Clothing,Hybrid,Model-C,White,533,3,1599,20,1279.2
+02-04-2022,Canada,Silver,Davis Inc,Components,Hybrid,Model-A,Yellow,1871,3,5613,10,5051.7
+24-01-2023,Australia,Gold,Smith PLC,Clothing,Hybrid,Model-C,Yellow,569,2,1138,15,967.3
+31-08-2023,United Kingdom,Gold,Castillo Group,Clothing,Road,Model-A,Red,114,2,228,0,228
+11-11-2023,Germany,Platinum,Larson-Stewart,Components,Mountain,Model-C,White,1333,2,2666,10,2399.4
+20-03-2024,Australia,Platinum,Fisher LLC,Components,Road,Model-D,Green,136,2,272,15,231.2
+17-08-2024,France,Gold,Clark-Bell,Bikes,Hybrid,Model-D,Red,1862,1,1862,0,1862
+27-01-2024,Germany,Platinum,"Perez, Holmes and Johnson",Clothing,Road,Model-C,Red,114,4,456,20,364.8
+29-07-2024,United Kingdom,Silver,Morales PLC,Components,Mountain,Model-A,Yellow,1174,4,4696,20,3756.8
+23-09-2024,Germany,Gold,"Baker, Schultz and Johnson",Components,Electric,Model-A,Yellow,507,5,2535,10,2281.5
+01-10-2023,Canada,Gold,"Wallace, Taylor and Ayala",Clothing,Mountain,Model-C,Red,1023,4,4092,20,3273.6
+26-10-2023,Canada,Gold,"Rodriguez, Wood and Ruiz",Clothing,Hybrid,Model-C,Blue,95,1,95,10,85.5
+27-07-2024,France,Gold,"Hill, Shaw and Orr",Bikes,Electric,Model-C,Yellow,315,2,630,15,535.5
+02-12-2024,United Kingdom,Platinum,"Smith, Miller and Savage",Components,Hybrid,Model-B,Red,82,1,82,20,65.6
+12-04-2022,United States,Platinum,Gonzales LLC,Accessories,Mountain,Model-C,Green,1902,1,1902,10,1711.8
+17-03-2023,United States,Platinum,"Watson, Duncan and Becker",Bikes,Road,Model-C,Yellow,259,5,1295,15,1100.75
+06-04-2024,Canada,Gold,Edwards-Carter,Accessories,Hybrid,Model-B,Green,1623,4,6492,10,5842.8
+13-03-2022,Australia,Silver,Vega Group,Bikes,Electric,Model-A,Blue,1327,3,3981,20,3184.8
+20-06-2024,United Kingdom,Silver,"Hopkins, Taylor and Adkins",Bikes,Road,Model-B,Green,569,1,569,20,455.2
+06-12-2024,Australia,Gold,"Solis, Daniels and Sampson",Accessories,Electric,Model-B,White,272,1,272,0,272
+08-05-2023,United States,Silver,"Nelson, Romero and Mcdowell",Accessories,Mountain,Model-A,Green,619,2,1238,5,1176.1
+24-09-2023,France,Silver,"Quinn, Arias and Lee",Clothing,Mountain,Model-D,Black,1056,1,1056,5,1003.2
+12-08-2023,Canada,Silver,"Mccarthy, Pacheco and White",Accessories,Mountain,Model-C,Green,554,3,1662,15,1412.7
+15-08-2023,Canada,Platinum,"Johnson, Chaney and Dean",Accessories,Electric,Model-D,White,902,1,902,20,721.6
+14-04-2022,France,Platinum,Smith-Barrett,Bikes,Mountain,Model-A,White,1295,5,6475,5,6151.25
+03-11-2023,Germany,Gold,"Wilson, Lam and Moore",Clothing,Hybrid,Model-B,Green,178,2,356,15,302.6
+13-12-2023,Canada,Silver,Brown PLC,Bikes,Mountain,Model-C,Red,77,2,154,15,130.9
+08-11-2023,Australia,Gold,"Johnson, Liu and Sims",Bikes,Mountain,Model-C,Red,573,5,2865,5,2721.75
+08-05-2023,Australia,Silver,Cowan-Crawford,Clothing,Road,Model-B,Blue,1030,1,1030,20,824
+08-09-2022,United Kingdom,Platinum,"Daugherty, Sloan and Bell",Bikes,Electric,Model-D,Blue,599,3,1797,20,1437.6
+05-03-2023,Australia,Platinum,Harris-Powell,Bikes,Hybrid,Model-D,Yellow,546,2,1092,20,873.6
+27-09-2022,France,Platinum,Green LLC,Bikes,Road,Model-C,Black,1058,3,3174,10,2856.6
+05-09-2023,Australia,Gold,"Swanson, Forbes and Hayes",Accessories,Hybrid,Model-A,White,1365,3,4095,5,3890.25
+25-09-2024,Australia,Silver,Johnson LLC,Accessories,Mountain,Model-C,Green,633,4,2532,15,2152.2
+02-02-2022,Canada,Platinum,"Nguyen, Jones and Mack",Accessories,Electric,Model-A,Green,178,5,890,20,712
+26-02-2022,United Kingdom,Platinum,"Rogers, Stewart and Hart",Clothing,Mountain,Model-A,White,1458,5,7290,20,5832
+08-09-2022,United States,Platinum,Williams Group,Components,Road,Model-C,Green,120,4,480,15,408
+14-07-2023,Canada,Silver,"Juarez, Richardson and Garcia",Bikes,Mountain,Model-A,Green,682,5,3410,10,3069
+23-08-2022,Germany,Platinum,Day-Park,Accessories,Electric,Model-B,White,1375,3,4125,20,3300
+28-05-2022,Australia,Gold,Perry-Young,Clothing,Hybrid,Model-D,Green,1602,4,6408,5,6087.6
+17-02-2024,United Kingdom,Gold,Small PLC,Accessories,Road,Model-C,Black,700,3,2100,5,1995
+02-02-2024,United States,Gold,"Williams, Wilson and Pacheco",Bikes,Road,Model-B,Blue,612,2,1224,10,1101.6
+25-04-2023,United States,Silver,Gutierrez Inc,Bikes,Electric,Model-D,Blue,1082,1,1082,0,1082
+16-01-2024,Germany,Gold,Ward-Gutierrez,Components,Mountain,Model-C,Red,1297,3,3891,10,3501.9
+07-01-2022,Germany,Gold,Oliver Inc,Clothing,Mountain,Model-B,Yellow,1305,1,1305,5,1239.75
+19-06-2023,France,Platinum,"Kerr, Thomas and Dunn",Accessories,Hybrid,Model-A,White,1367,3,4101,0,4101
+27-01-2024,Canada,Gold,Jenkins-Bass,Accessories,Road,Model-C,Blue,941,1,941,5,893.95
+25-03-2022,France,Platinum,Smith and Sons,Clothing,Road,Model-D,Red,1625,2,3250,0,3250
+26-04-2024,United Kingdom,Gold,Gonzales Ltd,Accessories,Electric,Model-A,Yellow,1896,1,1896,15,1611.6
+07-06-2022,Australia,Silver,"Morris, Ortiz and Peters",Clothing,Road,Model-D,Blue,1844,4,7376,5,7007.2
+02-02-2023,France,Gold,"Miller, Craig and Hamilton",Components,Hybrid,Model-A,White,299,5,1495,10,1345.5
+14-12-2024,United Kingdom,Gold,"Brooks, Miller and Jones",Accessories,Mountain,Model-A,Blue,335,2,670,20,536
+16-01-2022,United Kingdom,Silver,"David, Savage and Knapp",Clothing,Electric,Model-D,Black,1317,2,2634,15,2238.9
+08-07-2024,United Kingdom,Platinum,Obrien-Hall,Bikes,Road,Model-B,Yellow,508,3,1524,10,1371.6
+02-04-2022,Canada,Gold,Lee-Martin,Bikes,Road,Model-A,Blue,997,2,1994,20,1595.2
+11-02-2023,Germany,Platinum,Miller-Thompson,Clothing,Mountain,Model-D,Blue,1065,3,3195,10,2875.5
+25-03-2023,Germany,Gold,Rodriguez and Sons,Bikes,Hybrid,Model-C,Blue,543,1,543,0,543
+03-11-2023,United States,Gold,"Vasquez, Smith and Burns",Accessories,Mountain,Model-A,Black,1927,5,9635,15,8189.75
+30-06-2022,Germany,Silver,Roberts Group,Accessories,Road,Model-D,Black,862,4,3448,20,2758.4
+18-10-2023,Canada,Gold,"Webb, Smith and Sutton",Accessories,Mountain,Model-A,Yellow,1386,4,5544,15,4712.4
+10-10-2022,Germany,Platinum,Barrett-Anderson,Bikes,Mountain,Model-C,Blue,1259,2,2518,20,2014.4
+20-03-2023,United States,Silver,"Mack, Kelly and Walker",Bikes,Road,Model-B,Green,640,1,640,15,544
+04-04-2024,United States,Platinum,Fernandez-Mcdaniel,Accessories,Hybrid,Model-A,Yellow,542,4,2168,0,2168
+18-04-2022,Germany,Platinum,Andrews-Kemp,Accessories,Mountain,Model-A,Red,841,5,4205,10,3784.5
+24-04-2024,Canada,Silver,Robertson and Sons,Accessories,Hybrid,Model-D,Yellow,777,1,777,5,738.15
+16-10-2023,United States,Platinum,"Howe, Nguyen and Cameron",Clothing,Electric,Model-B,Blue,849,5,4245,10,3820.5
+23-02-2024,Canada,Gold,"Harris, Richardson and Lopez",Components,Hybrid,Model-A,Blue,1048,5,5240,15,4454
+29-06-2023,Germany,Gold,"Weeks, Simon and Hubbard",Bikes,Road,Model-A,Red,1306,2,2612,15,2220.2
+27-08-2024,Canada,Silver,Johnson-Willis,Accessories,Mountain,Model-A,Blue,382,2,764,0,764
+02-05-2024,United Kingdom,Platinum,Young-Williams,Accessories,Mountain,Model-D,Yellow,278,5,1390,0,1390
+16-04-2022,Canada,Silver,"Clark, Jenkins and Thompson",Clothing,Electric,Model-D,White,182,3,546,10,491.4
+22-04-2022,Canada,Gold,Walton-Woods,Bikes,Hybrid,Model-D,Green,1952,3,5856,10,5270.4
+25-07-2023,France,Platinum,Stein Inc,Bikes,Mountain,Model-A,Red,1085,1,1085,10,976.5
+06-09-2024,France,Silver,"Sanchez, Hendrix and Perry",Components,Road,Model-C,Blue,1164,3,3492,0,3492
+13-02-2023,United Kingdom,Silver,Castillo-Barr,Clothing,Mountain,Model-A,Black,1456,2,2912,10,2620.8
+24-03-2023,Canada,Gold,"Holt, Hendricks and Long",Components,Mountain,Model-B,Blue,957,2,1914,15,1626.9
+03-01-2022,Germany,Platinum,Atkins Ltd,Bikes,Road,Model-D,Blue,671,5,3355,5,3187.25
+04-06-2022,France,Platinum,Rodriguez-Burns,Bikes,Mountain,Model-A,Black,261,3,783,5,743.85
+02-12-2024,Canada,Silver,"Burke, Fry and Schultz",Components,Hybrid,Model-D,White,152,2,304,0,304
+27-06-2023,United Kingdom,Gold,Cruz-Vargas,Bikes,Mountain,Model-A,Red,1095,3,3285,20,2628
+26-12-2023,United States,Silver,Phillips Group,Components,Road,Model-A,Red,1305,2,2610,15,2218.5
+28-10-2022,Canada,Silver,"Burke, Fernandez and Gutierrez",Bikes,Mountain,Model-D,Yellow,751,4,3004,10,2703.6
+02-05-2024,Germany,Platinum,Stewart-Steele,Clothing,Mountain,Model-D,White,914,4,3656,10,3290.4
+21-03-2022,France,Gold,Anderson Group,Components,Road,Model-D,Yellow,1522,2,3044,5,2891.8
+15-05-2023,United Kingdom,Gold,Hill Group,Components,Mountain,Model-B,White,639,3,1917,5,1821.15
+16-11-2024,Germany,Silver,Hood LLC,Clothing,Road,Model-C,Yellow,403,4,1612,0,1612
+22-05-2023,United States,Silver,Martin-Li,Components,Electric,Model-C,Green,258,3,774,10,696.6
+09-03-2023,Canada,Silver,"Jackson, Benjamin and Campos",Components,Road,Model-C,Red,1350,5,6750,15,5737.5
+01-08-2023,United Kingdom,Silver,Morrow-Lopez,Clothing,Hybrid,Model-D,Red,805,5,4025,15,3421.25
+21-08-2024,United States,Gold,"Kemp, Hodge and Edwards",Components,Mountain,Model-B,White,1043,2,2086,0,2086
+05-06-2022,France,Gold,Johnson Group,Accessories,Road,Model-D,Green,1138,2,2276,10,2048.4
+05-01-2024,Germany,Platinum,Mason-Campbell,Components,Mountain,Model-C,Yellow,182,3,546,5,518.7
+16-06-2023,United States,Silver,Chambers-Montoya,Clothing,Electric,Model-C,Yellow,1310,2,2620,5,2489
+10-02-2022,Australia,Silver,Mcdonald and Sons,Accessories,Electric,Model-B,Black,838,4,3352,0,3352
+21-10-2022,United Kingdom,Platinum,Mcdowell LLC,Clothing,Road,Model-D,Yellow,1635,5,8175,5,7766.25
+24-12-2024,United States,Platinum,"Palmer, Hogan and Davis",Components,Hybrid,Model-A,Yellow,294,2,588,20,470.4
+06-12-2024,United States,Platinum,"King, Walton and Rhodes",Bikes,Mountain,Model-A,Red,1049,5,5245,20,4196
+01-01-2022,Canada,Platinum,Walsh PLC,Clothing,Electric,Model-D,Red,1896,1,1896,0,1896
+15-11-2022,United Kingdom,Gold,Murray-Washington,Accessories,Mountain,Model-B,Yellow,1208,5,6040,5,5738
+15-09-2024,Germany,Gold,Beltran Group,Accessories,Electric,Model-C,Yellow,715,5,3575,0,3575
+11-05-2022,Australia,Gold,Collins LLC,Accessories,Road,Model-D,White,130,2,260,0,260
+01-07-2023,France,Silver,"Ruiz, Turner and Rodriguez",Clothing,Electric,Model-D,Black,1758,1,1758,10,1582.2
+25-01-2023,Germany,Platinum,"Marshall, Jones and Adkins",Components,Mountain,Model-A,Green,1831,3,5493,10,4943.7
+18-09-2023,United Kingdom,Gold,"Tate, Russell and Rodriguez",Components,Hybrid,Model-D,Blue,1546,4,6184,10,5565.6
+13-12-2024,Germany,Gold,"Lewis, Macias and Waters",Bikes,Electric,Model-D,Yellow,1860,3,5580,15,4743
+12-11-2022,Canada,Gold,Reed Inc,Components,Mountain,Model-B,Red,1007,5,5035,20,4028
+11-11-2023,Germany,Silver,Gallegos-Davis,Accessories,Electric,Model-C,White,724,1,724,0,724
+21-07-2023,Canada,Platinum,Garcia Inc,Accessories,Road,Model-B,Yellow,1949,1,1949,15,1656.65
+10-06-2023,Australia,Gold,"Navarro, Williams and Patterson",Bikes,Road,Model-D,Green,306,5,1530,15,1300.5
+30-12-2024,United Kingdom,Silver,Ramsey and Sons,Bikes,Hybrid,Model-C,White,1502,1,1502,10,1351.8
+03-06-2023,United Kingdom,Gold,"Hawkins, Lewis and Weaver",Bikes,Mountain,Model-B,Red,1618,5,8090,15,6876.5
+15-10-2022,Australia,Gold,Henry-Watson,Components,Mountain,Model-A,Red,391,1,391,5,371.45
+25-07-2024,Germany,Gold,"Cole, Morris and Richardson",Accessories,Road,Model-B,Yellow,587,1,587,10,528.3
+19-10-2022,Australia,Silver,Thornton and Sons,Clothing,Mountain,Model-D,Green,1311,5,6555,15,5571.75
+16-03-2022,Germany,Platinum,Taylor and Sons,Accessories,Road,Model-D,Blue,337,3,1011,0,1011
+01-12-2023,France,Silver,Richardson PLC,Clothing,Mountain,Model-B,Black,1523,5,7615,10,6853.5
+15-10-2024,Canada,Platinum,"Black, Sullivan and Brown",Components,Mountain,Model-D,Black,287,1,287,10,258.3
+16-05-2023,United Kingdom,Silver,"Rosario, Thomas and Rowe",Accessories,Electric,Model-D,Green,681,1,681,5,646.95
+13-05-2022,France,Silver,Arnold and Sons,Components,Electric,Model-A,Blue,518,4,2072,15,1761.2
+24-01-2023,France,Gold,Brandt Group,Bikes,Hybrid,Model-C,Blue,345,2,690,15,586.5
+06-08-2022,Germany,Platinum,Vaughn Group,Accessories,Road,Model-D,Blue,1803,5,9015,5,8564.25
+21-03-2024,Canada,Gold,"Adams, Hall and Smith",Accessories,Mountain,Model-A,Green,473,1,473,20,378.4
+11-03-2024,Germany,Silver,"Green, Robinson and Farmer",Accessories,Mountain,Model-D,Green,933,1,933,0,933
+27-04-2022,Canada,Platinum,Hoffman Ltd,Accessories,Road,Model-D,Red,195,3,585,5,555.75
+19-02-2023,France,Silver,Fry and Sons,Clothing,Electric,Model-C,Red,866,2,1732,20,1385.6
+29-08-2022,Canada,Silver,"Palmer, Lawrence and Anderson",Bikes,Mountain,Model-C,Blue,1054,3,3162,15,2687.7
+14-12-2022,United States,Silver,Vargas-Kennedy,Components,Mountain,Model-B,Blue,930,4,3720,5,3534
+15-03-2023,Canada,Silver,Hart-Kane,Accessories,Electric,Model-B,Red,645,4,2580,0,2580
+09-08-2022,Germany,Silver,Rodriguez-Murray,Components,Electric,Model-D,Yellow,1086,3,3258,0,3258
+18-11-2023,France,Silver,Dixon PLC,Components,Hybrid,Model-D,Green,1370,1,1370,20,1096
+30-04-2023,Germany,Platinum,Lee-Randolph,Components,Electric,Model-C,Yellow,1110,4,4440,15,3774
+28-01-2022,Canada,Gold,"Hill, Mason and Dominguez",Bikes,Hybrid,Model-B,Black,986,4,3944,0,3944
+24-06-2022,United States,Platinum,"Zimmerman, Melendez and Martin",Clothing,Mountain,Model-A,Red,853,4,3412,0,3412
+20-05-2023,United States,Gold,Smith-Hall,Components,Hybrid,Model-D,Blue,1676,5,8380,10,7542
+14-07-2023,Germany,Gold,"Cain, Henry and Martin",Components,Electric,Model-A,Green,1497,3,4491,10,4041.9
+12-01-2023,France,Silver,"Perez, Collins and Everett",Clothing,Hybrid,Model-C,Green,1518,1,1518,0,1518
+17-06-2022,Australia,Platinum,Harrell Ltd,Clothing,Electric,Model-A,Yellow,1257,2,2514,15,2136.9
+14-10-2024,France,Silver,Savage-Boone,Components,Mountain,Model-A,Black,1046,3,3138,0,3138
+09-03-2023,France,Silver,Miller Ltd,Components,Hybrid,Model-A,White,939,2,1878,15,1596.3
+30-01-2024,Canada,Gold,Mendoza and Sons,Clothing,Electric,Model-A,Blue,963,4,3852,10,3466.8
+05-06-2022,Canada,Platinum,"Stanley, Green and Ward",Accessories,Mountain,Model-D,Red,1466,1,1466,10,1319.4
+17-02-2023,United Kingdom,Platinum,Jones and Sons,Clothing,Hybrid,Model-A,Green,51,4,204,10,183.6
+21-12-2023,Australia,Platinum,"Rodriguez, Brooks and Thomas",Clothing,Road,Model-A,Blue,1484,2,2968,20,2374.4
+14-04-2022,France,Platinum,Morris PLC,Accessories,Mountain,Model-B,Red,412,3,1236,15,1050.6
+20-04-2022,Germany,Platinum,Marshall LLC,Accessories,Road,Model-C,Green,1041,4,4164,15,3539.4
+13-08-2024,United Kingdom,Platinum,Rodgers-Stewart,Accessories,Road,Model-A,Yellow,1579,2,3158,10,2842.2
+20-09-2022,United Kingdom,Gold,"Barnes, Bryant and Huff",Components,Mountain,Model-A,Blue,391,4,1564,10,1407.6
+09-10-2024,Canada,Gold,"Wilson, Dean and Henry",Bikes,Mountain,Model-A,Red,658,3,1974,0,1974
+26-09-2023,Australia,Silver,Stevens-Stanley,Accessories,Electric,Model-A,White,1223,5,6115,0,6115
+02-05-2024,France,Gold,Scott-Bell,Clothing,Hybrid,Model-B,Black,199,2,398,15,338.3
+24-08-2024,France,Platinum,Scott-Hammond,Bikes,Hybrid,Model-B,Yellow,1982,4,7928,5,7531.6
+13-04-2024,United States,Silver,Martin PLC,Clothing,Road,Model-A,Red,1794,2,3588,20,2870.4
+20-08-2023,United States,Gold,Contreras Ltd,Bikes,Mountain,Model-A,Green,1231,5,6155,0,6155
+13-10-2024,Germany,Platinum,"Riley, Gray and Grant",Bikes,Road,Model-C,Red,1414,1,1414,10,1272.6
+13-05-2023,Australia,Platinum,Chandler-George,Bikes,Hybrid,Model-A,Blue,538,2,1076,10,968.4
+16-11-2022,Canada,Gold,Gutierrez Group,Components,Mountain,Model-A,Blue,144,3,432,10,388.8
+11-11-2022,United Kingdom,Silver,Kemp-Castillo,Components,Hybrid,Model-C,Black,1728,1,1728,20,1382.4
+22-02-2024,France,Silver,Johnson-Wright,Accessories,Mountain,Model-C,Red,1214,3,3642,15,3095.7
+16-09-2023,Germany,Silver,Mcdonald Group,Components,Electric,Model-D,Yellow,547,4,2188,0,2188
+16-12-2024,United Kingdom,Gold,"Brooks, Liu and Byrd",Components,Hybrid,Model-C,Blue,1054,5,5270,10,4743
+15-02-2022,Australia,Silver,Roman and Sons,Bikes,Road,Model-B,Black,698,5,3490,15,2966.5
+24-09-2024,Germany,Platinum,Washington Ltd,Bikes,Electric,Model-A,Green,365,4,1460,10,1314
+30-05-2024,Canada,Gold,Franklin-Martinez,Bikes,Hybrid,Model-B,Green,540,3,1620,10,1458
+15-10-2022,United Kingdom,Platinum,Mills LLC,Accessories,Mountain,Model-C,Black,1567,1,1567,10,1410.3
+30-10-2024,United Kingdom,Platinum,"Trujillo, Anderson and Thompson",Clothing,Mountain,Model-B,Red,238,5,1190,15,1011.5
+25-09-2023,United States,Silver,"Jones, Diaz and Sanchez",Accessories,Electric,Model-B,Black,1896,4,7584,15,6446.4
+15-02-2022,Australia,Gold,"Schmidt, Mcdonald and Richardson",Clothing,Mountain,Model-D,Red,292,2,584,5,554.8
+21-06-2022,France,Silver,Williams PLC,Components,Electric,Model-C,Yellow,1623,4,6492,0,6492
+04-04-2023,United States,Gold,Brewer-Roth,Accessories,Mountain,Model-B,Yellow,1609,2,3218,20,2574.4
+07-03-2023,Germany,Platinum,"Mayer, Mcdonald and Hoffman",Accessories,Hybrid,Model-D,Green,1503,4,6012,5,5711.4
+04-02-2022,United Kingdom,Gold,Saunders-Bullock,Bikes,Electric,Model-C,Yellow,88,4,352,10,316.8
+03-01-2023,France,Gold,Huerta-Crawford,Clothing,Electric,Model-D,Green,1768,4,7072,0,7072
+26-05-2023,Canada,Silver,Winters Ltd,Clothing,Hybrid,Model-B,Red,1998,3,5994,5,5694.3
+15-08-2024,Australia,Platinum,"Kim, Williams and Black",Components,Electric,Model-C,Blue,1170,2,2340,5,2223
+08-11-2022,United Kingdom,Platinum,Fisher-Jimenez,Clothing,Hybrid,Model-B,Green,1388,5,6940,20,5552
+19-05-2024,France,Platinum,Lang LLC,Accessories,Hybrid,Model-B,White,939,5,4695,0,4695
+23-11-2024,United States,Gold,Wiley-Gregory,Bikes,Road,Model-C,Red,983,1,983,0,983
+29-11-2022,United States,Gold,Campbell Ltd,Clothing,Road,Model-A,Green,843,2,1686,0,1686
+08-08-2022,France,Platinum,Kim-Porter,Bikes,Mountain,Model-C,Black,396,3,1188,15,1009.8
+16-12-2023,France,Platinum,Nelson Ltd,Bikes,Hybrid,Model-B,Black,956,2,1912,10,1720.8
+21-11-2023,France,Gold,Pitts Ltd,Clothing,Hybrid,Model-A,White,963,5,4815,10,4333.5
+14-06-2024,France,Platinum,"Grimes, Mcbride and Martinez",Clothing,Hybrid,Model-B,Green,767,5,3835,15,3259.75
+01-03-2024,United Kingdom,Platinum,Miller Group,Accessories,Hybrid,Model-A,Red,1133,1,1133,5,1076.35
+26-03-2023,United States,Platinum,Bailey LLC,Accessories,Electric,Model-D,Blue,1993,1,1993,5,1893.35
+22-12-2022,United Kingdom,Silver,Obrien-Wilcox,Accessories,Hybrid,Model-D,Red,1288,1,1288,5,1223.6
+17-08-2024,United States,Gold,Jones-Murray,Bikes,Electric,Model-C,Black,871,5,4355,0,4355
+11-03-2022,Germany,Platinum,King Ltd,Components,Mountain,Model-D,Yellow,1965,2,3930,15,3340.5
+08-03-2022,United States,Platinum,"Johnson, Thompson and Castro",Bikes,Road,Model-C,White,422,4,1688,20,1350.4
+18-06-2024,Canada,Platinum,Snyder-Lewis,Accessories,Electric,Model-C,Green,1904,3,5712,15,4855.2
+11-11-2024,United States,Gold,"Lopez, Washington and Garcia",Components,Mountain,Model-D,White,941,5,4705,0,4705
+14-02-2022,United Kingdom,Platinum,Trujillo LLC,Bikes,Road,Model-D,Red,825,5,4125,15,3506.25
+23-03-2023,United States,Silver,Pope-Sellers,Bikes,Road,Model-D,White,1724,2,3448,10,3103.2
+29-10-2024,France,Platinum,Christian-Ward,Clothing,Mountain,Model-C,Red,638,3,1914,5,1818.3
+09-08-2023,United States,Platinum,Randolph-Hanson,Clothing,Mountain,Model-D,Black,1913,3,5739,15,4878.15
+25-09-2023,France,Platinum,Wilson-Mercer,Accessories,Electric,Model-C,Red,1748,5,8740,15,7429
+25-04-2023,United States,Platinum,Ramirez-Greene,Components,Mountain,Model-B,Red,318,4,1272,20,1017.6
+11-02-2022,United Kingdom,Gold,Clarke Inc,Components,Road,Model-C,Blue,824,5,4120,10,3708
+12-09-2023,Australia,Platinum,Nelson-Perez,Bikes,Mountain,Model-A,Blue,1046,5,5230,15,4445.5
+11-04-2022,Canada,Platinum,"Barajas, Bentley and Gregory",Accessories,Mountain,Model-D,Red,1200,4,4800,20,3840
+31-05-2024,Australia,Platinum,"Miller, Hill and Anderson",Components,Hybrid,Model-A,Blue,1366,2,2732,15,2322.2
+20-12-2024,France,Gold,Welch-Lara,Clothing,Mountain,Model-B,Black,508,3,1524,20,1219.2
+04-06-2022,Australia,Gold,"Armstrong, Brown and Mooney",Bikes,Road,Model-D,Green,1758,1,1758,5,1670.1
+04-03-2022,France,Silver,Thomas-Baker,Clothing,Electric,Model-A,Blue,535,3,1605,0,1605
+22-02-2023,Australia,Platinum,Williams-Yoder,Bikes,Mountain,Model-B,White,1226,5,6130,0,6130
+18-12-2024,France,Silver,Mosley-Lee,Clothing,Road,Model-A,Green,820,3,2460,15,2091
+02-01-2024,Germany,Gold,Freeman and Sons,Clothing,Mountain,Model-D,Blue,667,3,2001,15,1700.85
+22-07-2023,Canada,Silver,"Valdez, Davenport and Hall",Accessories,Road,Model-D,Blue,849,5,4245,15,3608.25
+19-03-2023,Canada,Silver,Pearson-Bradford,Components,Road,Model-C,Blue,597,2,1194,15,1014.9
+15-04-2024,United States,Platinum,Miller-Young,Components,Hybrid,Model-B,Yellow,1162,3,3486,5,3311.7
+14-01-2022,France,Platinum,Carter-Carpenter,Components,Electric,Model-D,White,444,3,1332,15,1132.2
+08-04-2022,Australia,Gold,Greer and Sons,Accessories,Electric,Model-C,Yellow,1992,3,5976,15,5079.6
+30-03-2023,United Kingdom,Silver,Blair Group,Components,Hybrid,Model-C,Red,1316,3,3948,20,3158.4
+09-06-2024,Germany,Silver,Little Ltd,Bikes,Road,Model-B,Blue,1177,5,5885,10,5296.5
+10-04-2023,United States,Silver,Calderon-James,Clothing,Hybrid,Model-D,Red,239,1,239,0,239
+08-05-2024,Australia,Platinum,"Martin, Garcia and Brown",Bikes,Hybrid,Model-A,White,1524,4,6096,5,5791.2
+16-07-2024,France,Platinum,Buchanan Ltd,Accessories,Hybrid,Model-D,Black,179,5,895,15,760.75
+01-04-2022,United States,Gold,Rich-Reid,Components,Mountain,Model-B,Red,531,5,2655,5,2522.25
+09-08-2022,United Kingdom,Gold,Ramirez and Sons,Bikes,Mountain,Model-B,White,1769,2,3538,20,2830.4
+30-07-2023,Canada,Gold,Escobar-Williams,Accessories,Mountain,Model-D,Yellow,1503,1,1503,10,1352.7
+21-03-2024,France,Gold,Phillips-Brown,Accessories,Road,Model-B,White,1294,5,6470,5,6146.5
+26-03-2023,Canada,Silver,Beck LLC,Bikes,Electric,Model-A,White,1982,3,5946,10,5351.4
+21-08-2023,Australia,Platinum,Hogan-Griffin,Bikes,Electric,Model-D,Red,1109,5,5545,5,5267.75
+15-10-2024,United States,Platinum,"Dunn, Black and Greene",Accessories,Hybrid,Model-A,Red,1647,5,8235,10,7411.5
+11-06-2022,United Kingdom,Gold,"Koch, Lee and Harrington",Accessories,Hybrid,Model-A,Blue,552,4,2208,10,1987.2
+24-06-2023,France,Silver,Salas PLC,Components,Mountain,Model-C,Yellow,1114,5,5570,0,5570
+01-05-2022,France,Silver,"Rodriguez, Wagner and Jackson",Clothing,Mountain,Model-B,Green,228,4,912,5,866.4
+19-06-2024,Germany,Platinum,"Walker, Arellano and Ramirez",Bikes,Hybrid,Model-B,Red,943,3,2829,0,2829
+11-12-2024,Germany,Gold,"Flores, Blake and Fisher",Clothing,Mountain,Model-A,Blue,810,1,810,10,729
+14-04-2024,United States,Gold,James-Alexander,Accessories,Road,Model-C,White,1485,3,4455,20,3564
+19-10-2022,United States,Platinum,"Cordova, Jones and Franklin",Bikes,Electric,Model-D,Black,1254,1,1254,10,1128.6
+27-09-2022,United States,Platinum,Wade-Hamilton,Bikes,Electric,Model-C,White,1335,5,6675,15,5673.75
+31-07-2022,Australia,Platinum,Murray-Schwartz,Accessories,Mountain,Model-B,Yellow,488,1,488,20,390.4
+13-02-2024,France,Platinum,"Larsen, Velazquez and Price",Bikes,Road,Model-C,Green,1013,1,1013,5,962.35
+07-12-2024,United Kingdom,Silver,Clark Ltd,Bikes,Road,Model-A,Yellow,1257,1,1257,10,1131.3
+29-08-2024,Canada,Gold,"Murray, Jacobson and Stephens",Bikes,Electric,Model-A,Green,1145,4,4580,0,4580
+23-11-2023,United States,Silver,Roberts-Johnson,Accessories,Electric,Model-B,White,652,3,1956,0,1956
+12-01-2023,United Kingdom,Silver,Hill Ltd,Accessories,Hybrid,Model-A,White,1968,1,1968,15,1672.8
+24-08-2024,Germany,Silver,Nguyen-Ramirez,Bikes,Electric,Model-A,Green,134,1,134,20,107.2
+18-02-2022,United Kingdom,Platinum,Cisneros Inc,Components,Mountain,Model-D,White,216,1,216,20,172.8
+30-07-2023,United Kingdom,Gold,"Christensen, Powell and Harris",Components,Road,Model-C,Blue,1504,3,4512,0,4512
+14-09-2022,United Kingdom,Silver,Pitts-Torres,Bikes,Electric,Model-A,Blue,436,1,436,10,392.4
+19-03-2022,Australia,Silver,"Peterson, Brown and Anderson",Accessories,Electric,Model-D,Blue,1240,3,3720,20,2976
+09-09-2023,United States,Platinum,"Wright, Wagner and Davis",Bikes,Hybrid,Model-D,White,735,4,2940,5,2793
+10-06-2022,Australia,Platinum,Ortiz PLC,Clothing,Road,Model-D,Green,1061,5,5305,5,5039.75
+25-08-2022,United States,Silver,Berger Inc,Bikes,Mountain,Model-D,Red,792,2,1584,10,1425.6
+04-07-2023,Germany,Silver,Berry Inc,Accessories,Road,Model-D,Green,141,3,423,15,359.55
+19-10-2022,United Kingdom,Gold,Bailey and Sons,Accessories,Hybrid,Model-C,Blue,260,3,780,5,741
+02-04-2022,Australia,Gold,Bright LLC,Clothing,Mountain,Model-B,Green,1078,4,4312,0,4312
+21-12-2023,Germany,Platinum,"Mendoza, Thomas and Dixon",Accessories,Road,Model-C,Green,123,5,615,0,615
+28-08-2022,France,Silver,Reyes PLC,Bikes,Road,Model-B,Blue,676,4,2704,0,2704
+17-09-2024,Germany,Gold,"Mercado, Day and Lin",Bikes,Mountain,Model-C,Green,397,1,397,20,317.6
+11-08-2024,France,Gold,Mason-Olsen,Components,Mountain,Model-D,Black,1971,3,5913,20,4730.4
+18-09-2024,Germany,Silver,Mcgee-Johnson,Bikes,Road,Model-A,Black,872,1,872,20,697.6
+15-06-2022,Germany,Platinum,Moore Ltd,Bikes,Road,Model-C,Black,779,3,2337,20,1869.6
+29-12-2024,Germany,Silver,"Perry, Adkins and Simmons",Bikes,Hybrid,Model-B,White,1433,3,4299,15,3654.15
+09-02-2024,United Kingdom,Silver,Meyers-Walker,Components,Mountain,Model-B,Green,1166,1,1166,10,1049.4
+23-12-2022,United States,Silver,"Garrett, Miller and Watson",Accessories,Road,Model-B,White,1648,3,4944,15,4202.4
+05-01-2022,France,Silver,Lang-Gill,Components,Road,Model-A,White,430,3,1290,5,1225.5
+13-01-2024,France,Silver,Rivera-Johnson,Bikes,Electric,Model-B,Yellow,774,5,3870,5,3676.5
+29-07-2022,Canada,Platinum,Andrews-Mendez,Bikes,Electric,Model-D,Green,408,4,1632,15,1387.2
+30-03-2023,France,Silver,Payne-Gutierrez,Components,Road,Model-B,White,1568,5,7840,5,7448
+18-03-2022,Australia,Silver,"Mora, Bailey and Crawford",Clothing,Mountain,Model-C,Green,1265,1,1265,0,1265
+26-12-2024,United States,Gold,"Walters, Hale and Olson",Components,Road,Model-C,Green,463,1,463,5,439.85
+27-09-2024,Germany,Gold,Smith-Frost,Components,Electric,Model-D,Black,1673,3,5019,20,4015.2
+04-12-2023,Canada,Platinum,Lynch and Sons,Accessories,Hybrid,Model-C,White,1741,2,3482,5,3307.9
+19-10-2022,United States,Silver,Davis-Cameron,Accessories,Road,Model-C,Green,308,5,1540,20,1232
+21-10-2022,United Kingdom,Platinum,"Wilson, White and Romero",Clothing,Electric,Model-D,Blue,1528,5,7640,10,6876
+27-08-2022,United Kingdom,Platinum,Ballard-Brooks,Bikes,Road,Model-B,Green,1089,1,1089,5,1034.55
+13-11-2022,Germany,Platinum,Sparks-Gonzalez,Components,Electric,Model-A,White,1628,5,8140,10,7326
+20-08-2022,Germany,Gold,"Johnson, Price and Taylor",Components,Electric,Model-C,Red,1135,4,4540,10,4086
+03-05-2024,United Kingdom,Gold,"Arias, Cooper and Reilly",Components,Mountain,Model-A,Green,1476,5,7380,20,5904
+15-01-2024,Australia,Silver,"Logan, Davis and Becker",Accessories,Electric,Model-D,Yellow,1456,3,4368,5,4149.6
+09-05-2024,Australia,Platinum,Brown Group,Components,Electric,Model-A,Blue,1577,3,4731,5,4494.45
+08-03-2022,Australia,Gold,"Jackson, Delgado and Miller",Components,Mountain,Model-A,White,521,4,2084,0,2084
+15-08-2024,Australia,Silver,"Harris, Clark and Richardson",Bikes,Mountain,Model-A,Blue,1453,5,7265,5,6901.75
+27-03-2022,Australia,Gold,Banks Inc,Accessories,Electric,Model-C,White,1055,4,4220,20,3376
+08-09-2022,United Kingdom,Gold,"Pearson, Davis and Pennington",Bikes,Hybrid,Model-B,Black,1904,1,1904,0,1904
+24-12-2024,Canada,Silver,Henderson Group,Bikes,Hybrid,Model-A,Yellow,1692,3,5076,5,4822.2
+01-02-2024,Australia,Gold,"Martin, Bishop and Anderson",Bikes,Electric,Model-D,Red,380,1,380,15,323
+21-02-2023,Australia,Gold,Wilson and Sons,Accessories,Mountain,Model-B,Green,700,4,2800,0,2800
+12-11-2022,Germany,Gold,Wells-Moore,Accessories,Road,Model-B,White,55,3,165,5,156.75
+20-04-2022,Canada,Silver,Galvan-Tran,Accessories,Mountain,Model-A,Red,818,1,818,15,695.3
+13-03-2022,Germany,Silver,Davis-Day,Bikes,Electric,Model-D,Red,1375,1,1375,10,1237.5
+09-10-2022,Canada,Platinum,"Watkins, Nguyen and Harris",Components,Hybrid,Model-B,Blue,1882,3,5646,15,4799.1
+21-11-2022,France,Silver,Ramos-George,Clothing,Road,Model-A,Green,165,5,825,10,742.5
+01-08-2024,France,Gold,Williamson PLC,Components,Electric,Model-C,Yellow,97,4,388,5,368.6
+29-09-2022,France,Silver,Smith-Miller,Accessories,Mountain,Model-D,Blue,852,4,3408,20,2726.4
+28-09-2022,Germany,Platinum,Lane PLC,Components,Hybrid,Model-C,Red,987,1,987,0,987
+01-08-2024,Canada,Gold,Salinas Group,Components,Electric,Model-B,Blue,1095,1,1095,20,876
+29-11-2024,Australia,Platinum,Cole PLC,Bikes,Hybrid,Model-B,Black,369,4,1476,0,1476
+30-04-2022,Australia,Platinum,"Robinson, Leach and Garcia",Bikes,Road,Model-C,White,1572,3,4716,10,4244.4
+20-10-2024,France,Gold,"Perkins, Meyer and Wright",Clothing,Road,Model-D,Red,569,4,2276,15,1934.6
+15-07-2022,Canada,Gold,Anderson-Smith,Clothing,Hybrid,Model-B,Yellow,1986,4,7944,15,6752.4
+24-07-2022,Australia,Gold,"Morgan, Phillips and Anderson",Accessories,Electric,Model-B,Green,998,2,1996,5,1896.2
+07-12-2022,Australia,Platinum,Murray-Boyer,Clothing,Mountain,Model-D,Red,1490,2,2980,15,2533
+30-03-2023,United States,Gold,Harris-Fuentes,Accessories,Electric,Model-C,Green,1543,4,6172,5,5863.4
+08-07-2022,United Kingdom,Gold,"Daniels, Thompson and Smith",Bikes,Electric,Model-A,Green,1778,5,8890,0,8890
+09-06-2023,United Kingdom,Silver,"Lewis, Johnson and Parsons",Clothing,Hybrid,Model-D,Yellow,1294,5,6470,5,6146.5
+02-05-2023,Canada,Gold,Brown-Fleming,Clothing,Electric,Model-A,Blue,1789,3,5367,0,5367
+30-05-2023,Australia,Gold,"Walter, Kline and Wells",Bikes,Electric,Model-D,Black,1363,5,6815,20,5452
+07-07-2024,United States,Gold,Turner Inc,Bikes,Road,Model-D,Blue,1724,5,8620,0,8620
+19-02-2024,France,Gold,Roberts-Morse,Clothing,Road,Model-D,Green,574,1,574,15,487.9
+06-07-2023,France,Platinum,Campos PLC,Components,Hybrid,Model-C,Black,1325,4,5300,15,4505
+04-05-2024,United States,Silver,Jones and Sons,Clothing,Mountain,Model-C,Black,329,4,1316,0,1316
+07-06-2023,France,Silver,Jenkins-Berry,Clothing,Road,Model-A,Blue,579,2,1158,15,984.3
+11-02-2023,France,Gold,"Carlson, Barber and Powell",Accessories,Hybrid,Model-C,Yellow,785,5,3925,0,3925
+28-05-2023,France,Platinum,Murphy-Lucero,Accessories,Hybrid,Model-D,Blue,1910,4,7640,0,7640
+02-10-2024,United Kingdom,Silver,Vargas and Sons,Clothing,Mountain,Model-A,Green,929,2,1858,20,1486.4
+05-06-2024,France,Silver,"Brown, Hart and Sullivan",Accessories,Electric,Model-C,Red,1446,4,5784,20,4627.2
+23-08-2022,United States,Platinum,Kim-Smith,Components,Electric,Model-C,Blue,1182,3,3546,5,3368.7
+28-05-2023,United States,Platinum,"Rosales, Benton and Morrow",Bikes,Road,Model-B,Blue,1015,5,5075,10,4567.5
+08-10-2023,Australia,Silver,"Heath, Mitchell and Randall",Accessories,Mountain,Model-A,White,1527,2,3054,5,2901.3
+16-09-2022,Canada,Gold,Valencia LLC,Bikes,Mountain,Model-D,Yellow,729,5,3645,0,3645
+17-05-2023,Canada,Gold,Nichols-Thompson,Accessories,Electric,Model-C,Green,1590,2,3180,15,2703
+24-06-2022,United States,Silver,Hunt-Bailey,Components,Electric,Model-A,Black,305,2,610,5,579.5
+12-08-2024,Australia,Platinum,"Hendrix, Santiago and Guerrero",Components,Road,Model-A,Yellow,456,2,912,15,775.2
+22-06-2022,Australia,Gold,Jones Ltd,Clothing,Electric,Model-B,Blue,915,1,915,0,915
+22-11-2024,France,Silver,Dominguez and Sons,Accessories,Mountain,Model-C,Yellow,1533,2,3066,10,2759.4
+14-12-2022,Canada,Silver,Garcia PLC,Accessories,Hybrid,Model-A,White,848,1,848,20,678.4
+29-11-2024,Australia,Platinum,Hudson Inc,Bikes,Mountain,Model-C,Blue,1337,2,2674,20,2139.2
+30-09-2022,Australia,Gold,"Thomas, Vaughn and Faulkner",Components,Road,Model-A,White,189,4,756,20,604.8
+05-06-2024,United Kingdom,Platinum,"Gould, Smith and Simpson",Accessories,Electric,Model-D,Green,799,2,1598,10,1438.2
+08-07-2023,Australia,Platinum,Howard Inc,Components,Electric,Model-A,Red,909,2,1818,20,1454.4
+14-05-2023,United Kingdom,Gold,Fernandez Group,Accessories,Mountain,Model-B,Blue,1396,2,2792,20,2233.6
+25-05-2022,France,Silver,Dickerson-Sheppard,Bikes,Electric,Model-D,Black,386,1,386,5,366.7
+28-12-2023,Australia,Silver,Wilson-Hall,Components,Electric,Model-C,Black,1852,2,3704,15,3148.4
+05-02-2024,United States,Platinum,Simmons Ltd,Components,Mountain,Model-B,Green,697,1,697,5,662.15
+10-10-2024,Canada,Silver,Sullivan-Jones,Bikes,Road,Model-C,White,1373,2,2746,10,2471.4
+20-02-2022,United States,Gold,"Peterson, Heath and Banks",Components,Mountain,Model-C,Blue,267,1,267,15,226.95
+09-11-2023,Australia,Gold,"Miller, Roth and Pena",Clothing,Road,Model-D,Yellow,795,1,795,0,795
+28-12-2022,Australia,Gold,Watson-Lewis,Components,Mountain,Model-A,Blue,1716,4,6864,5,6520.8
+11-09-2024,Germany,Gold,Hanna Ltd,Clothing,Mountain,Model-D,White,181,3,543,20,434.4
+04-04-2023,Australia,Silver,Taylor-Moss,Bikes,Mountain,Model-D,Red,620,5,3100,15,2635
+13-05-2023,United Kingdom,Platinum,"Garcia, Wright and Schmidt",Clothing,Hybrid,Model-D,Red,1933,3,5799,20,4639.2
+23-10-2024,Germany,Platinum,Leonard Inc,Components,Mountain,Model-D,Green,998,5,4990,15,4241.5
+29-01-2022,Germany,Silver,Kelley and Sons,Bikes,Electric,Model-D,Green,1751,3,5253,15,4465.05
+29-11-2022,United States,Silver,Taylor-Watson,Components,Mountain,Model-B,Yellow,189,2,378,20,302.4
+27-04-2023,Canada,Platinum,"Bates, Stephens and Williams",Components,Electric,Model-C,Green,338,1,338,15,287.3
+26-09-2022,Australia,Silver,"Lynch, Small and Duran",Components,Mountain,Model-D,Blue,1930,5,9650,15,8202.5
+25-05-2023,Australia,Gold,"Smith, Hurst and Wright",Clothing,Hybrid,Model-D,Black,558,1,558,15,474.3
+22-11-2022,France,Platinum,Schwartz-Russell,Bikes,Road,Model-B,Blue,1947,5,9735,20,7788
+09-03-2023,Australia,Silver,"Bryant, Jimenez and Smith",Accessories,Mountain,Model-A,Green,1161,1,1161,15,986.85
+30-07-2022,Germany,Gold,Brown Ltd,Components,Mountain,Model-D,Green,76,3,228,15,193.8
+02-08-2022,United Kingdom,Silver,Lee and Sons,Bikes,Mountain,Model-B,Green,1621,1,1621,10,1458.9
+14-08-2023,Australia,Platinum,Yu-Johnson,Clothing,Mountain,Model-C,Red,1267,2,2534,10,2280.6
+06-05-2023,Germany,Platinum,Bailey Inc,Accessories,Mountain,Model-A,Red,862,3,2586,10,2327.4
+24-08-2022,France,Gold,Martin-Jenkins,Bikes,Road,Model-A,Black,1568,2,3136,0,3136
+08-02-2024,United Kingdom,Platinum,Stark PLC,Bikes,Hybrid,Model-C,Blue,1098,4,4392,20,3513.6
+16-10-2023,United Kingdom,Platinum,"Jordan, Chase and Lopez",Components,Mountain,Model-A,Green,430,3,1290,20,1032
+03-03-2023,Germany,Platinum,Johnson and Sons,Accessories,Mountain,Model-B,Green,453,4,1812,10,1630.8
+11-05-2022,France,Gold,Brown Ltd,Bikes,Hybrid,Model-C,Black,431,1,431,20,344.8
+04-01-2023,Germany,Gold,Mack-Phillips,Accessories,Electric,Model-D,Green,176,4,704,10,633.6
+27-03-2024,France,Platinum,"Gonzalez, Morgan and Hickman",Bikes,Road,Model-C,White,99,5,495,10,445.5
+23-12-2022,France,Platinum,Villarreal-Peters,Bikes,Electric,Model-A,Green,1726,5,8630,10,7767
+20-06-2022,United States,Gold,Blackburn and Sons,Bikes,Road,Model-B,Blue,1997,3,5991,10,5391.9
+31-08-2024,United States,Gold,"Moore, Snow and Peterson",Bikes,Electric,Model-D,Red,354,2,708,5,672.6
+31-10-2023,France,Gold,"Rodriguez, Brown and Murray",Clothing,Mountain,Model-D,Blue,1679,1,1679,0,1679
+21-07-2023,Australia,Platinum,Leach Ltd,Bikes,Electric,Model-D,Red,922,5,4610,5,4379.5
+02-12-2024,United States,Silver,Edwards PLC,Components,Electric,Model-D,White,291,4,1164,0,1164
+24-06-2022,United Kingdom,Platinum,Banks-Nunez,Clothing,Electric,Model-D,White,1078,3,3234,15,2748.9
+18-09-2024,France,Silver,"Patel, Landry and Bell",Accessories,Electric,Model-C,Red,231,5,1155,0,1155
+18-10-2022,United Kingdom,Gold,Davis-Baker,Bikes,Road,Model-C,Green,152,2,304,10,273.6
+16-05-2023,Germany,Gold,Newman-Owen,Accessories,Hybrid,Model-D,White,1196,1,1196,10,1076.4
+09-06-2022,Germany,Platinum,Kim Ltd,Bikes,Mountain,Model-D,Yellow,84,2,168,0,168
+26-11-2023,Canada,Platinum,Tran Ltd,Bikes,Mountain,Model-C,Yellow,1322,1,1322,15,1123.7
+24-06-2023,United States,Silver,"Vaughan, Huber and Fields",Components,Electric,Model-D,Black,510,1,510,10,459
+24-11-2022,Germany,Gold,Bryant Group,Accessories,Hybrid,Model-A,Red,1877,2,3754,15,3190.9
+24-01-2024,Canada,Platinum,Taylor and Sons,Bikes,Mountain,Model-B,Yellow,1665,2,3330,10,2997
+22-08-2024,United States,Platinum,Shepherd Group,Bikes,Road,Model-A,Yellow,349,5,1745,20,1396
+24-05-2023,France,Gold,Grant Inc,Components,Hybrid,Model-C,Green,932,1,932,0,932
+05-05-2023,United Kingdom,Platinum,Key Inc,Bikes,Electric,Model-A,Blue,1326,2,2652,10,2386.8
+08-12-2022,Canada,Silver,"Mckee, Perry and Krueger",Clothing,Road,Model-A,Blue,1261,2,2522,10,2269.8
+17-10-2024,Germany,Silver,"Adams, Cantu and Winters",Accessories,Hybrid,Model-D,White,1786,1,1786,15,1518.1
+30-06-2024,Canada,Platinum,Ward Ltd,Components,Electric,Model-D,Black,226,4,904,20,723.2
+08-04-2023,Australia,Silver,Ross PLC,Accessories,Electric,Model-B,Green,938,5,4690,10,4221
+28-11-2024,Canada,Gold,Gomez and Sons,Components,Mountain,Model-D,Black,1861,4,7444,5,7071.8
+22-07-2022,Germany,Silver,"Mendoza, Ortega and Crosby",Accessories,Mountain,Model-A,Black,328,1,328,15,278.8
+07-05-2023,Australia,Silver,"Gonzalez, Williams and Newman",Bikes,Road,Model-D,Green,1807,4,7228,10,6505.2
+14-10-2022,Australia,Silver,Richardson Ltd,Bikes,Road,Model-B,Yellow,449,2,898,15,763.3
+04-10-2022,Germany,Platinum,"Lopez, Sanchez and Simmons",Bikes,Electric,Model-D,Red,1200,1,1200,20,960
+06-08-2022,United States,Gold,Zuniga-Fuller,Components,Road,Model-B,Yellow,694,4,2776,10,2498.4
+17-07-2022,Australia,Silver,Liu and Sons,Clothing,Hybrid,Model-C,White,1413,1,1413,20,1130.4
+27-06-2023,United States,Platinum,"Aguilar, Weeks and Sanchez",Clothing,Mountain,Model-C,Blue,1383,1,1383,20,1106.4
+11-05-2023,Canada,Gold,Hill-Pineda,Accessories,Road,Model-D,Green,1691,1,1691,20,1352.8
+16-05-2022,United Kingdom,Gold,"Goodman, Best and Lopez",Components,Road,Model-B,Green,1310,5,6550,15,5567.5
+18-11-2022,Australia,Platinum,"Landry, Rose and Hartman",Bikes,Electric,Model-B,Red,205,2,410,20,328
+12-08-2022,Germany,Platinum,"Lewis, Johnson and Miller",Bikes,Mountain,Model-D,Black,1042,3,3126,5,2969.7
+21-08-2024,Australia,Silver,Morgan-Hardy,Accessories,Electric,Model-A,White,72,2,144,5,136.8
+22-02-2022,United Kingdom,Platinum,Sanchez-Castro,Accessories,Electric,Model-B,Green,1749,4,6996,10,6296.4
+07-09-2024,France,Gold,Morris Ltd,Accessories,Hybrid,Model-D,White,1645,2,3290,15,2796.5
+19-03-2023,Canada,Silver,"Walters, Edwards and Walker",Components,Road,Model-D,White,1253,4,5012,5,4761.4
+29-08-2023,Australia,Platinum,"Rodriguez, Russell and Miller",Clothing,Mountain,Model-C,Blue,456,2,912,10,820.8
+25-07-2022,Germany,Gold,Johnston PLC,Clothing,Electric,Model-D,Green,320,4,1280,5,1216
+29-05-2024,France,Silver,Mayer and Sons,Bikes,Electric,Model-D,Yellow,113,1,113,20,90.4
+08-07-2022,Australia,Silver,Brown PLC,Bikes,Mountain,Model-B,White,701,1,701,20,560.8
+07-06-2022,Canada,Platinum,"Ortega, Haynes and Romero",Accessories,Hybrid,Model-C,Yellow,1452,2,2904,5,2758.8
+25-06-2024,Germany,Platinum,Williams LLC,Bikes,Road,Model-B,White,719,2,1438,0,1438
+21-12-2022,France,Silver,"Adams, Vazquez and Boone",Accessories,Hybrid,Model-B,Red,1336,2,2672,20,2137.6
+14-11-2024,United States,Platinum,Marshall-Ali,Clothing,Hybrid,Model-B,Blue,72,5,360,20,288
+09-07-2024,Germany,Platinum,"Mcdaniel, Johnson and Jackson",Accessories,Mountain,Model-B,Black,313,1,313,0,313
+23-08-2022,France,Gold,"Adams, Carter and Scott",Clothing,Hybrid,Model-D,Yellow,1964,2,3928,15,3338.8
+14-02-2023,France,Silver,Francis Inc,Clothing,Electric,Model-A,Black,1183,3,3549,10,3194.1
+30-08-2024,France,Silver,Romero-Jimenez,Bikes,Road,Model-B,Black,673,2,1346,15,1144.1
+22-06-2022,Canada,Platinum,Price Inc,Components,Hybrid,Model-D,White,1139,2,2278,10,2050.2
+01-05-2023,France,Gold,Barr PLC,Bikes,Road,Model-C,Yellow,790,5,3950,5,3752.5
+05-12-2022,Australia,Silver,Harmon-Carter,Accessories,Electric,Model-A,Blue,1592,3,4776,5,4537.2
+01-08-2022,United Kingdom,Silver,Dyer Ltd,Components,Hybrid,Model-D,Blue,562,4,2248,10,2023.2
+31-01-2022,Canada,Silver,"George, Calhoun and Moore",Clothing,Hybrid,Model-C,White,1472,3,4416,20,3532.8
+27-03-2024,Australia,Gold,Wilkinson-Williams,Bikes,Hybrid,Model-D,Red,1033,4,4132,20,3305.6
+06-10-2022,Germany,Silver,"Preston, Gillespie and Hernandez",Accessories,Mountain,Model-C,Black,978,3,2934,5,2787.3
+19-06-2022,France,Platinum,"Delgado, Douglas and Fisher",Clothing,Electric,Model-C,Green,1870,3,5610,5,5329.5
+14-09-2022,United States,Silver,Castro PLC,Components,Road,Model-D,Blue,704,5,3520,10,3168
+04-12-2022,United States,Gold,"Holder, Medina and Price",Bikes,Road,Model-B,Yellow,593,4,2372,0,2372
+02-10-2023,Germany,Silver,Porter LLC,Clothing,Road,Model-B,White,243,3,729,20,583.2
+07-07-2023,Germany,Silver,Martinez-Rice,Clothing,Hybrid,Model-C,Yellow,1066,1,1066,10,959.4
+29-03-2023,United Kingdom,Gold,"Lam, Lester and Park",Accessories,Road,Model-D,Yellow,709,5,3545,0,3545
+06-06-2022,United Kingdom,Silver,Ortiz-Buckley,Components,Hybrid,Model-C,Green,368,1,368,10,331.2
+02-02-2022,United Kingdom,Platinum,Kirby-Shelton,Bikes,Road,Model-C,White,392,1,392,5,372.4
+13-02-2023,Canada,Gold,Green-Anderson,Bikes,Electric,Model-D,Yellow,1978,4,7912,5,7516.4
+13-03-2023,United Kingdom,Silver,Jensen-Weiss,Accessories,Mountain,Model-B,Yellow,1971,3,5913,10,5321.7
+02-03-2022,Germany,Platinum,Kelly-Pace,Bikes,Electric,Model-D,Blue,1963,1,1963,5,1864.85
+12-10-2024,Canada,Platinum,"Rojas, Martin and Johnson",Components,Electric,Model-A,White,1815,1,1815,15,1542.75
+09-10-2023,France,Gold,Day-Smith,Clothing,Mountain,Model-B,Red,769,3,2307,5,2191.65
+05-04-2023,Australia,Gold,Burton-Marks,Clothing,Electric,Model-B,Blue,1968,2,3936,10,3542.4
+14-07-2022,Canada,Silver,"Mullins, Dunlap and Thomas",Components,Electric,Model-B,Blue,1622,4,6488,15,5514.8
+11-03-2024,France,Gold,Simmons and Sons,Accessories,Hybrid,Model-B,Yellow,1665,3,4995,10,4495.5
+17-10-2024,France,Platinum,Smith Group,Clothing,Electric,Model-C,White,1680,3,5040,10,4536
+19-04-2023,United States,Gold,Delacruz and Sons,Accessories,Mountain,Model-D,Red,765,3,2295,20,1836
+22-08-2022,Germany,Silver,Murphy PLC,Components,Electric,Model-B,Yellow,130,5,650,15,552.5
+08-03-2022,Germany,Platinum,"Baker, Flynn and Johnson",Accessories,Hybrid,Model-B,White,695,5,3475,0,3475
+26-03-2024,United States,Gold,Hood-Duncan,Clothing,Mountain,Model-A,Blue,636,5,3180,20,2544
+07-02-2023,United States,Gold,Brennan-Jones,Clothing,Hybrid,Model-D,Yellow,177,1,177,10,159.3
+25-09-2024,France,Platinum,Fernandez and Sons,Accessories,Electric,Model-A,Black,237,2,474,0,474
+18-06-2023,Canada,Platinum,Becker-Simon,Components,Mountain,Model-D,Black,496,2,992,10,892.8
+10-03-2022,Germany,Gold,Morgan-Mcpherson,Accessories,Hybrid,Model-D,Yellow,209,4,836,15,710.6
+25-08-2023,France,Gold,Jackson Inc,Accessories,Road,Model-C,Black,778,1,778,20,622.4
+23-05-2022,Germany,Silver,"Johnson, Ross and Harris",Components,Mountain,Model-A,Green,919,4,3676,20,2940.8
+24-04-2023,Australia,Gold,"Hess, White and Carroll",Accessories,Hybrid,Model-C,Black,1618,2,3236,20,2588.8
+16-05-2022,France,Platinum,"Lopez, Durham and Herrera",Bikes,Mountain,Model-C,Yellow,678,3,2034,5,1932.3
+11-05-2022,Australia,Platinum,Rose Inc,Bikes,Hybrid,Model-B,Blue,1230,2,2460,15,2091
+25-12-2024,Australia,Platinum,Strong Group,Bikes,Mountain,Model-B,Black,1392,5,6960,0,6960
+19-12-2023,Canada,Platinum,Duncan Inc,Components,Mountain,Model-D,Black,1062,2,2124,0,2124
+30-12-2022,Australia,Platinum,Rodriguez-Sanders,Accessories,Road,Model-D,Red,1979,5,9895,15,8410.75
+23-02-2022,United Kingdom,Platinum,Villarreal Ltd,Clothing,Mountain,Model-A,White,923,4,3692,0,3692
+19-10-2024,United Kingdom,Gold,Beard-Christensen,Accessories,Mountain,Model-B,White,340,3,1020,15,867
+20-03-2024,United States,Platinum,"Roberts, Taylor and Clark",Bikes,Mountain,Model-D,Red,695,4,2780,10,2502
+01-05-2023,Germany,Gold,Barnes Group,Bikes,Road,Model-B,Red,973,2,1946,20,1556.8
+05-07-2024,United States,Platinum,"Clark, Ibarra and Davis",Components,Mountain,Model-D,Black,1723,1,1723,15,1464.55
+05-10-2024,United States,Platinum,Williams Group,Bikes,Mountain,Model-A,Red,785,2,1570,5,1491.5
+05-04-2024,Australia,Gold,Riley Group,Components,Electric,Model-C,White,312,1,312,20,249.6
+23-06-2022,Canada,Gold,Davis-Frazier,Accessories,Road,Model-D,Red,971,5,4855,5,4612.25
+03-10-2023,United States,Silver,Johnston Group,Clothing,Road,Model-B,Black,811,4,3244,20,2595.2
+28-12-2023,Canada,Platinum,Hines-Evans,Bikes,Electric,Model-D,Green,1397,2,2794,5,2654.3
+06-10-2023,United States,Platinum,Perez-Williams,Clothing,Electric,Model-A,Green,1988,3,5964,20,4771.2
+07-05-2024,Germany,Gold,Gregory Ltd,Accessories,Electric,Model-C,Blue,559,5,2795,0,2795
+05-04-2023,Germany,Silver,"Dixon, Wright and Mccoy",Bikes,Mountain,Model-D,Yellow,682,5,3410,0,3410
+04-10-2023,France,Platinum,Bush LLC,Components,Hybrid,Model-D,Black,1241,4,4964,5,4715.8
+29-03-2023,Australia,Gold,"Robinson, Simpson and Clark",Bikes,Electric,Model-A,Red,1372,2,2744,5,2606.8
+27-02-2024,Germany,Platinum,Graham-Wolfe,Clothing,Road,Model-D,Blue,1362,4,5448,20,4358.4
+06-12-2023,Canada,Silver,"Ross, Whitney and English",Components,Hybrid,Model-C,Yellow,1316,5,6580,15,5593
+12-06-2023,Australia,Silver,"Allen, Hoffman and Mccullough",Clothing,Electric,Model-B,White,673,1,673,20,538.4
+12-10-2024,United Kingdom,Platinum,Rose Ltd,Components,Electric,Model-A,Red,1871,3,5613,15,4771.05
+08-06-2024,United States,Silver,Manning-Hinton,Accessories,Hybrid,Model-D,White,1062,3,3186,10,2867.4
+06-03-2023,Canada,Gold,Horton Inc,Clothing,Mountain,Model-A,Yellow,1776,1,1776,15,1509.6
+02-12-2023,Germany,Silver,Lynch-Owens,Components,Hybrid,Model-D,Black,1688,3,5064,0,5064
+27-08-2022,France,Gold,Moore-Newman,Components,Electric,Model-C,Yellow,89,4,356,10,320.4
+20-08-2024,Australia,Platinum,"Gray, Perkins and Martinez",Bikes,Electric,Model-A,Red,1505,1,1505,0,1505
+24-01-2023,United States,Silver,White and Sons,Bikes,Electric,Model-C,Blue,59,2,118,0,118
+09-07-2023,United States,Silver,Woodard-Torres,Clothing,Hybrid,Model-D,White,1611,3,4833,5,4591.35
+27-01-2022,Canada,Platinum,Bean-Pope,Components,Hybrid,Model-B,Red,415,1,415,15,352.75
+09-03-2024,Canada,Platinum,Duke-Bradley,Components,Electric,Model-B,Blue,911,5,4555,10,4099.5
+01-12-2022,United Kingdom,Platinum,Nash-Garcia,Clothing,Hybrid,Model-B,Black,378,4,1512,5,1436.4
+16-12-2023,United Kingdom,Silver,Gonzalez Group,Components,Road,Model-A,Green,510,5,2550,0,2550
+17-04-2022,Canada,Gold,White-Jackson,Bikes,Road,Model-A,Yellow,99,4,396,10,356.4
+04-04-2023,United States,Platinum,Warner Inc,Accessories,Mountain,Model-A,Black,788,5,3940,20,3152
+27-09-2022,France,Platinum,Holloway and Sons,Accessories,Hybrid,Model-B,Black,861,1,861,0,861
+17-09-2023,Germany,Gold,Miller Ltd,Bikes,Mountain,Model-A,White,1639,1,1639,0,1639
+02-06-2022,Germany,Silver,"Garcia, Hernandez and Jackson",Bikes,Road,Model-B,Blue,1568,1,1568,15,1332.8
+28-08-2024,United States,Silver,"Gonzalez, Turner and Crawford",Accessories,Road,Model-C,Red,1174,5,5870,20,4696
+29-08-2024,United Kingdom,Gold,Nguyen-Powell,Accessories,Mountain,Model-C,Black,369,4,1476,10,1328.4
+14-03-2024,United States,Gold,"Miranda, Wong and Mason",Bikes,Road,Model-A,Yellow,860,3,2580,15,2193
+30-05-2023,United Kingdom,Silver,Walker-Bender,Components,Hybrid,Model-C,Red,1194,5,5970,5,5671.5
+11-02-2022,United Kingdom,Silver,"Young, Marshall and Gonzalez",Components,Mountain,Model-D,Red,915,1,915,5,869.25
+04-02-2023,Canada,Gold,Burns Ltd,Bikes,Hybrid,Model-B,Blue,363,1,363,20,290.4
+04-07-2024,United Kingdom,Platinum,"Anderson, Haley and White",Bikes,Hybrid,Model-C,White,626,3,1878,15,1596.3
+14-11-2023,United Kingdom,Silver,Anderson-Peterson,Bikes,Road,Model-B,Red,104,5,520,5,494
+08-02-2024,Australia,Silver,Hoffman Group,Components,Mountain,Model-B,White,787,2,1574,15,1337.9
+27-03-2024,France,Silver,Miller-Williams,Accessories,Mountain,Model-B,Blue,504,1,504,5,478.8
+17-12-2024,Canada,Gold,Sheppard Inc,Bikes,Electric,Model-A,Black,342,2,684,20,547.2
+06-08-2023,Germany,Platinum,Baker-Jenkins,Bikes,Mountain,Model-B,Black,791,3,2373,20,1898.4
+25-04-2024,United Kingdom,Silver,Roberts LLC,Accessories,Electric,Model-B,Red,231,5,1155,10,1039.5
+07-06-2023,Australia,Silver,Scott-Jones,Components,Road,Model-D,White,772,3,2316,0,2316
+19-08-2023,France,Gold,Yang-Carr,Bikes,Mountain,Model-C,Black,1092,4,4368,5,4149.6
+28-12-2022,Australia,Gold,"Wagner, Mitchell and Parker",Clothing,Electric,Model-D,Blue,207,1,207,0,207
+19-09-2022,Canada,Silver,Ramirez Inc,Clothing,Electric,Model-C,Red,979,5,4895,5,4650.25
+12-04-2024,United Kingdom,Silver,Harrison-Cook,Accessories,Hybrid,Model-C,Yellow,73,1,73,5,69.35
+08-03-2022,United Kingdom,Gold,Watkins Inc,Bikes,Mountain,Model-B,White,398,1,398,5,378.1
+13-06-2022,France,Platinum,"Gibson, Garcia and Snyder",Bikes,Road,Model-B,Yellow,904,1,904,20,723.2
+05-08-2022,Australia,Gold,Morse and Sons,Components,Hybrid,Model-C,Red,435,5,2175,0,2175
+08-09-2024,United Kingdom,Gold,"Hall, Park and Scott",Accessories,Electric,Model-A,White,1941,2,3882,0,3882
+24-09-2023,United States,Silver,Robertson and Sons,Accessories,Hybrid,Model-C,White,803,1,803,15,682.55
+14-04-2023,United States,Silver,"Baker, Johnson and Moreno",Accessories,Mountain,Model-C,Blue,1461,3,4383,5,4163.85
+13-03-2023,France,Platinum,Hoffman Group,Clothing,Electric,Model-D,Black,89,3,267,0,267
+11-01-2022,United States,Gold,"Bradley, Hull and Garcia",Components,Road,Model-A,Black,444,2,888,0,888
+27-12-2024,Canada,Gold,Miller-Patterson,Clothing,Mountain,Model-C,Red,978,5,4890,20,3912
+08-02-2023,Canada,Platinum,"King, Weber and Tucker",Accessories,Road,Model-D,Black,1139,2,2278,20,1822.4
+22-05-2023,United States,Gold,Barrett Group,Components,Hybrid,Model-A,Yellow,651,2,1302,20,1041.6
+15-04-2024,Australia,Gold,"Cummings, Beck and Coleman",Bikes,Road,Model-A,Black,970,4,3880,0,3880
+17-12-2024,France,Platinum,Ruiz-Frank,Clothing,Electric,Model-B,Red,1591,3,4773,20,3818.4
+26-12-2024,Australia,Silver,Scott Group,Bikes,Road,Model-A,Green,1641,4,6564,10,5907.6
+03-11-2022,United Kingdom,Silver,Foster Ltd,Clothing,Mountain,Model-A,Blue,1595,1,1595,0,1595
+05-01-2024,United Kingdom,Silver,"Watson, Baird and Vaughn",Clothing,Electric,Model-D,Red,1695,1,1695,5,1610.25
+30-12-2023,United Kingdom,Silver,"Thompson, Cabrera and Long",Accessories,Road,Model-D,White,1751,5,8755,5,8317.25
+26-06-2022,Germany,Platinum,Casey PLC,Clothing,Hybrid,Model-B,Green,1979,1,1979,5,1880.05
+08-10-2024,Canada,Silver,Faulkner-Marshall,Components,Mountain,Model-D,Yellow,724,2,1448,20,1158.4
+08-01-2022,Australia,Silver,Carroll and Sons,Bikes,Electric,Model-D,Green,490,5,2450,15,2082.5
+18-09-2023,Australia,Silver,"Conner, Holloway and Chapman",Components,Electric,Model-B,Red,741,3,2223,15,1889.55
+22-12-2024,Australia,Silver,"Chavez, Ross and Cruz",Accessories,Road,Model-B,Black,334,5,1670,0,1670
+19-07-2022,France,Silver,Clark-Parker,Components,Mountain,Model-B,White,1730,1,1730,20,1384
+28-07-2023,Canada,Silver,"West, Sloan and Jackson",Accessories,Electric,Model-A,Red,1671,4,6684,0,6684
+15-06-2022,Canada,Platinum,Price-Garcia,Components,Mountain,Model-C,Red,1470,5,7350,0,7350
+19-04-2024,Germany,Silver,Riley-Vargas,Accessories,Electric,Model-B,Green,1217,4,4868,10,4381.2
+03-02-2022,Germany,Gold,"Shaw, Williams and Gill",Accessories,Electric,Model-C,Black,1921,5,9605,10,8644.5
+10-07-2022,Germany,Silver,Arroyo and Sons,Accessories,Road,Model-B,Red,972,5,4860,5,4617
+04-12-2022,United States,Gold,"Morales, Mitchell and Price",Bikes,Electric,Model-D,Black,1974,3,5922,20,4737.6
+09-11-2023,Australia,Platinum,Smith Group,Bikes,Electric,Model-A,White,186,2,372,10,334.8
+05-07-2024,France,Platinum,"Blake, Barnett and Smith",Components,Road,Model-B,Blue,1169,2,2338,0,2338
+30-01-2023,Germany,Gold,Lewis Ltd,Clothing,Mountain,Model-D,Red,1962,1,1962,10,1765.8
+27-07-2022,France,Gold,Wilson-Ferguson,Accessories,Mountain,Model-C,Yellow,1176,4,4704,15,3998.4
+26-03-2023,United Kingdom,Silver,Davis PLC,Components,Electric,Model-A,Blue,698,1,698,0,698
+15-12-2023,Canada,Platinum,Rodriguez-Bell,Accessories,Electric,Model-D,Blue,678,4,2712,15,2305.2
+10-10-2024,France,Gold,"Moore, Hess and Johnson",Clothing,Mountain,Model-A,Green,1570,1,1570,0,1570
+26-11-2024,France,Gold,Schroeder Inc,Bikes,Road,Model-C,White,1859,5,9295,5,8830.25
+11-04-2024,Canada,Silver,Jackson-Pearson,Clothing,Electric,Model-D,Green,1668,3,5004,0,5004
+19-03-2023,Canada,Platinum,Fleming-Edwards,Components,Hybrid,Model-A,White,1039,2,2078,5,1974.1
+14-08-2022,Australia,Platinum,Holden and Sons,Clothing,Mountain,Model-C,Yellow,1797,3,5391,10,4851.9
+28-11-2022,United Kingdom,Gold,Pearson-Nicholson,Bikes,Road,Model-A,Red,1513,3,4539,0,4539
+07-08-2023,Australia,Platinum,Scott-Reed,Bikes,Mountain,Model-B,Green,886,5,4430,5,4208.5
+29-06-2022,United States,Gold,Stafford LLC,Bikes,Hybrid,Model-B,Yellow,1728,2,3456,5,3283.2
+28-09-2023,United Kingdom,Platinum,Newman PLC,Bikes,Road,Model-C,Black,92,4,368,0,368
+12-03-2024,Canada,Gold,Cooper Group,Clothing,Mountain,Model-B,Yellow,810,5,4050,10,3645
+19-01-2022,Canada,Silver,Obrien-Webster,Bikes,Road,Model-D,Yellow,1176,4,4704,10,4233.6
+12-01-2024,United Kingdom,Silver,Jones LLC,Clothing,Electric,Model-D,Red,1171,2,2342,5,2224.9
+05-12-2024,France,Platinum,Campbell-Duncan,Components,Mountain,Model-B,Blue,1137,2,2274,10,2046.6
+05-02-2024,Canada,Silver,"Shaw, White and Williams",Clothing,Road,Model-D,Blue,767,2,1534,20,1227.2
+16-02-2022,Australia,Gold,Carter-Wheeler,Accessories,Hybrid,Model-A,Red,1108,3,3324,5,3157.8
+10-04-2022,Australia,Gold,Pena-Solomon,Bikes,Road,Model-A,Blue,1694,5,8470,0,8470
+05-10-2023,Canada,Platinum,"Maddox, Johnson and Garner",Accessories,Road,Model-C,Blue,703,4,2812,0,2812
+03-09-2024,United Kingdom,Platinum,"Buckley, Craig and Rivera",Bikes,Hybrid,Model-C,Yellow,1310,3,3930,20,3144
+22-11-2024,United Kingdom,Silver,Lopez PLC,Bikes,Electric,Model-A,White,238,2,476,10,428.4
+15-04-2022,Australia,Platinum,Diaz Inc,Accessories,Electric,Model-D,White,582,2,1164,0,1164
+04-07-2022,United States,Platinum,"Wolf, Olson and Miller",Bikes,Road,Model-D,Green,1400,3,4200,0,4200
+06-12-2022,France,Silver,"Kelly, Hamilton and Orr",Accessories,Road,Model-A,Green,1165,4,4660,10,4194
+07-03-2024,France,Platinum,"Bradford, Green and Martin",Accessories,Electric,Model-B,Yellow,1795,2,3590,0,3590
+26-07-2024,France,Platinum,Hughes Ltd,Clothing,Hybrid,Model-D,Yellow,760,3,2280,10,2052
+06-12-2024,France,Platinum,Burnett-Ramsey,Bikes,Mountain,Model-D,Green,861,3,2583,15,2195.55
+14-03-2022,United Kingdom,Gold,Ruiz Inc,Clothing,Mountain,Model-A,White,1695,1,1695,0,1695
+01-10-2023,Australia,Silver,Hanna-Harper,Bikes,Mountain,Model-A,Red,1296,3,3888,20,3110.4
+01-01-2024,Germany,Platinum,"Cordova, Sanders and Hood",Accessories,Mountain,Model-C,Yellow,1311,1,1311,10,1179.9
+03-03-2024,France,Silver,"Hughes, Wagner and Hensley",Accessories,Road,Model-D,Blue,1159,3,3477,10,3129.3
+06-04-2023,Canada,Platinum,"Williams, Valdez and Moore",Bikes,Road,Model-B,White,888,5,4440,15,3774
+14-05-2024,France,Gold,"Munoz, Payne and Wright",Clothing,Electric,Model-A,Green,1757,5,8785,0,8785
+05-10-2024,France,Gold,"Green, Lowe and Klein",Accessories,Hybrid,Model-D,Yellow,871,1,871,20,696.8
+14-01-2023,Canada,Platinum,Patrick Ltd,Clothing,Hybrid,Model-A,Red,898,3,2694,5,2559.3
+03-10-2022,United States,Silver,Boyd PLC,Bikes,Mountain,Model-B,White,1962,2,3924,10,3531.6
+25-02-2022,United Kingdom,Platinum,Hudson-Doyle,Bikes,Electric,Model-A,Blue,106,2,212,5,201.4
+13-07-2023,Germany,Silver,Garcia-Tanner,Clothing,Road,Model-B,White,201,5,1005,15,854.25
+22-09-2024,Canada,Platinum,Nolan and Sons,Components,Mountain,Model-B,White,1221,4,4884,0,4884
+14-09-2022,United Kingdom,Silver,"Ross, Gallagher and Kelley",Clothing,Road,Model-D,Black,1246,4,4984,5,4734.8
+02-03-2022,Canada,Platinum,Frank and Sons,Components,Hybrid,Model-D,White,804,3,2412,20,1929.6
+29-05-2023,France,Gold,"Caldwell, David and Davis",Accessories,Electric,Model-C,Green,536,2,1072,0,1072
+22-12-2024,France,Gold,Harris-Williams,Accessories,Hybrid,Model-B,White,1909,2,3818,5,3627.1
+20-07-2022,United States,Silver,Owens and Sons,Bikes,Mountain,Model-A,Yellow,1548,5,7740,5,7353
+01-09-2023,United States,Silver,Herrera Inc,Bikes,Electric,Model-B,White,107,4,428,15,363.8
+25-10-2022,United States,Gold,Smith-Hood,Clothing,Hybrid,Model-C,Green,717,5,3585,15,3047.25
+20-08-2023,Canada,Platinum,Glass Ltd,Accessories,Road,Model-D,Red,475,3,1425,10,1282.5
+06-08-2024,United Kingdom,Platinum,Williamson-Spence,Bikes,Hybrid,Model-A,White,1801,5,9005,10,8104.5
+13-08-2024,France,Platinum,Robinson-Lee,Components,Hybrid,Model-D,Black,1589,5,7945,15,6753.25
+26-07-2024,Canada,Silver,Carter Inc,Clothing,Hybrid,Model-A,White,1041,4,4164,0,4164
+28-12-2022,Australia,Silver,Chang LLC,Components,Mountain,Model-A,White,1217,4,4868,10,4381.2
+27-12-2022,France,Gold,Wall Inc,Bikes,Road,Model-C,Blue,1668,4,6672,0,6672
+25-06-2022,France,Gold,"Daniel, Mccoy and Jones",Accessories,Electric,Model-B,Blue,873,5,4365,15,3710.25
+26-09-2024,Germany,Platinum,Martin-Thomas,Clothing,Road,Model-C,Red,1043,1,1043,20,834.4
+08-12-2023,United Kingdom,Gold,Smith-Valentine,Clothing,Road,Model-A,Yellow,1055,5,5275,5,5011.25
+25-05-2023,France,Gold,"Evans, Ball and Wilson",Bikes,Electric,Model-C,White,1250,3,3750,15,3187.5
+21-08-2024,United States,Silver,"Roberts, Rivera and Allen",Components,Hybrid,Model-B,Red,1519,2,3038,15,2582.3
+02-11-2022,United States,Gold,Gonzalez LLC,Components,Electric,Model-B,White,1974,5,9870,0,9870
+12-07-2022,Australia,Gold,Peterson-Meyer,Clothing,Mountain,Model-D,Green,825,2,1650,0,1650
+17-10-2023,Australia,Platinum,Bender and Sons,Bikes,Mountain,Model-C,Yellow,568,4,2272,15,1931.2
+20-04-2023,United Kingdom,Gold,"Harding, Blake and Kennedy",Bikes,Hybrid,Model-A,Blue,224,5,1120,0,1120
+11-07-2022,Germany,Platinum,Perry PLC,Bikes,Hybrid,Model-B,Black,325,1,325,15,276.25
+25-07-2024,United States,Silver,Carter-Castillo,Accessories,Mountain,Model-D,Red,1533,1,1533,20,1226.4
+11-11-2023,Australia,Platinum,Rodriguez and Sons,Components,Road,Model-B,White,738,1,738,15,627.3
+15-06-2024,United Kingdom,Gold,Bell-Welch,Clothing,Electric,Model-A,Blue,459,5,2295,10,2065.5
+23-02-2024,United States,Platinum,"Rodriguez, Oliver and Saunders",Bikes,Road,Model-B,Yellow,232,2,464,10,417.6
+19-08-2023,United Kingdom,Platinum,"Barron, Shelton and Lin",Clothing,Mountain,Model-B,Red,1147,5,5735,20,4588
+06-08-2024,United Kingdom,Platinum,"Dawson, Ruiz and Kramer",Clothing,Mountain,Model-D,Blue,224,4,896,10,806.4
+29-08-2024,United States,Gold,"Mooney, Hardy and Chase",Components,Electric,Model-C,Red,492,4,1968,0,1968
+25-07-2022,United States,Platinum,Patterson-Perry,Bikes,Road,Model-C,White,1538,4,6152,0,6152
+22-03-2023,Canada,Gold,Leach-Smith,Bikes,Mountain,Model-B,Blue,487,1,487,15,413.95
+25-07-2024,United States,Platinum,Mckinney Ltd,Clothing,Hybrid,Model-A,Black,1389,2,2778,20,2222.4
+04-07-2023,United States,Silver,Brown-Perez,Clothing,Mountain,Model-D,Yellow,191,2,382,10,343.8
+09-05-2022,France,Silver,Poole-Brown,Bikes,Electric,Model-A,Green,241,2,482,10,433.8
+22-01-2024,United States,Platinum,Oneal-Santos,Accessories,Road,Model-D,Blue,1580,5,7900,15,6715
+01-03-2024,Australia,Gold,"Hardy, Mccormick and Hall",Clothing,Road,Model-C,Green,462,1,462,5,438.9
+30-07-2024,Australia,Silver,Perez-Stewart,Accessories,Mountain,Model-D,White,304,2,608,15,516.8
+28-09-2024,United Kingdom,Platinum,Collins LLC,Bikes,Electric,Model-B,Red,1149,2,2298,5,2183.1
+18-05-2024,Germany,Gold,Garrett LLC,Clothing,Road,Model-D,White,625,4,2500,5,2375
+02-10-2024,United Kingdom,Platinum,Davis Ltd,Clothing,Road,Model-B,White,1558,5,7790,10,7011
+12-05-2022,Australia,Platinum,Reyes-Guerrero,Accessories,Hybrid,Model-B,Yellow,1239,4,4956,5,4708.2
+16-12-2024,United States,Silver,Berg LLC,Clothing,Mountain,Model-B,White,1849,3,5547,20,4437.6
+20-11-2022,Canada,Platinum,Hopkins LLC,Bikes,Electric,Model-A,Yellow,1808,2,3616,5,3435.2
+05-10-2024,Canada,Gold,"Caldwell, Jordan and Escobar",Accessories,Electric,Model-D,Blue,211,3,633,0,633
+03-03-2023,France,Silver,Gregory-Lucas,Accessories,Hybrid,Model-D,Green,909,2,1818,5,1727.1
+20-07-2024,Canada,Silver,Williams-Williams,Bikes,Hybrid,Model-A,Blue,1765,2,3530,10,3177
+10-03-2022,France,Gold,Murray and Sons,Bikes,Road,Model-A,Yellow,1032,4,4128,15,3508.8
+26-07-2023,United Kingdom,Platinum,Friedman Ltd,Components,Electric,Model-D,Black,1090,4,4360,20,3488
+02-11-2024,Germany,Gold,"Thomas, Wilson and Hensley",Accessories,Hybrid,Model-C,White,89,3,267,20,213.6
+14-09-2022,United States,Gold,Underwood-Kaiser,Clothing,Mountain,Model-A,Green,605,2,1210,5,1149.5
+07-07-2023,Canada,Gold,"Davis, Beck and King",Bikes,Road,Model-C,Red,1026,1,1026,20,820.8
+17-11-2023,Australia,Silver,"Evans, Bird and Morse",Bikes,Hybrid,Model-D,Black,684,2,1368,5,1299.6
+30-11-2022,United Kingdom,Platinum,Sullivan Ltd,Bikes,Mountain,Model-D,White,1421,3,4263,0,4263
+21-01-2023,Australia,Gold,Fuentes-Bernard,Clothing,Hybrid,Model-A,Red,1045,5,5225,0,5225
+04-08-2023,United Kingdom,Gold,Smith Inc,Components,Road,Model-A,Yellow,792,3,2376,20,1900.8
+14-11-2024,France,Gold,"Cruz, Johnson and Rios",Accessories,Electric,Model-A,Green,264,3,792,5,752.4
+01-02-2023,Canada,Platinum,Harris-Clark,Clothing,Electric,Model-C,White,453,1,453,5,430.35
+17-04-2022,Germany,Gold,Chan-Morris,Clothing,Hybrid,Model-D,Red,1876,3,5628,5,5346.6
+02-05-2024,United Kingdom,Gold,Nelson Inc,Components,Road,Model-A,Blue,1959,5,9795,10,8815.5
+06-04-2023,Australia,Silver,Jones-Nguyen,Clothing,Mountain,Model-C,White,1857,5,9285,15,7892.25
+27-11-2022,Germany,Gold,Johnson-Garcia,Accessories,Road,Model-D,Yellow,1969,1,1969,15,1673.65
+07-09-2024,United States,Silver,Gonzalez-Walker,Bikes,Electric,Model-C,White,251,3,753,20,602.4
+25-10-2024,Germany,Silver,Atkinson-Phillips,Components,Mountain,Model-B,Black,1509,2,3018,5,2867.1
+23-04-2023,United States,Silver,Kaufman-Morse,Accessories,Road,Model-D,Blue,983,5,4915,10,4423.5
+29-06-2022,United Kingdom,Gold,Parrish Group,Clothing,Electric,Model-C,Yellow,312,5,1560,10,1404
+24-06-2024,France,Gold,"Chen, Shelton and Perkins",Clothing,Mountain,Model-C,Green,672,3,2016,0,2016
+08-09-2022,United States,Silver,Miller-Hensley,Clothing,Electric,Model-A,Green,853,2,1706,5,1620.7
+21-02-2023,Australia,Platinum,Riggs and Sons,Accessories,Hybrid,Model-B,Blue,1782,4,7128,5,6771.6
+01-08-2023,Australia,Silver,"Rivera, Goodwin and Miller",Bikes,Road,Model-B,Blue,832,3,2496,15,2121.6
+30-11-2022,United Kingdom,Silver,"Johnson, Moss and Cain",Bikes,Road,Model-D,Blue,1313,3,3939,20,3151.2
+10-08-2023,United States,Silver,"Stewart, Evans and Mcintyre",Components,Road,Model-D,Green,1916,2,3832,20,3065.6
+24-09-2022,Canada,Gold,"Mckay, Page and Heath",Bikes,Mountain,Model-C,Red,159,1,159,10,143.1
+24-08-2024,Canada,Silver,"Graham, Johnson and Lynch",Accessories,Road,Model-C,Blue,808,2,1616,20,1292.8
+31-01-2022,United Kingdom,Silver,"Castro, Ramirez and Henry",Components,Electric,Model-C,White,1331,4,5324,0,5324
+12-08-2022,Canada,Platinum,Williams-Harris,Clothing,Hybrid,Model-C,Green,973,5,4865,20,3892
+01-10-2022,Canada,Platinum,Black Ltd,Bikes,Mountain,Model-D,Green,1237,3,3711,15,3154.35
+24-02-2022,United States,Gold,Wang LLC,Clothing,Mountain,Model-B,Red,1543,5,7715,0,7715
+23-01-2022,Canada,Silver,Barnes-Brown,Clothing,Road,Model-C,Red,1740,2,3480,10,3132
+07-09-2024,France,Gold,"Downs, Mcdowell and Mills",Bikes,Mountain,Model-D,Yellow,1234,4,4936,5,4689.2
+24-02-2022,Germany,Platinum,Randall-Wright,Components,Mountain,Model-B,Black,1713,1,1713,5,1627.35
+04-04-2024,Canada,Silver,"Garcia, Carson and Martin",Components,Road,Model-A,Black,329,5,1645,0,1645
+20-05-2024,Germany,Silver,Holt PLC,Bikes,Electric,Model-D,Red,1191,1,1191,5,1131.45
+22-08-2023,France,Gold,"Adams, Jackson and Sloan",Accessories,Electric,Model-C,Black,1071,5,5355,5,5087.25
+01-01-2024,Germany,Gold,Meyers-Smith,Clothing,Electric,Model-D,White,1714,5,8570,10,7713
+21-07-2022,Germany,Silver,Gardner Inc,Accessories,Electric,Model-B,Blue,539,3,1617,15,1374.45
+26-09-2024,United Kingdom,Platinum,"Hernandez, Allison and Ramsey",Bikes,Mountain,Model-D,Black,162,2,324,0,324
+04-06-2022,United Kingdom,Gold,"Matthews, Allen and Boyd",Accessories,Hybrid,Model-A,Red,825,3,2475,15,2103.75
+04-01-2024,United States,Gold,Baker Group,Bikes,Electric,Model-A,Blue,1241,3,3723,0,3723
+19-10-2024,France,Platinum,Rivera-Martinez,Accessories,Mountain,Model-C,White,1175,4,4700,20,3760
+11-04-2024,France,Silver,Davis PLC,Accessories,Hybrid,Model-A,Black,1178,5,5890,10,5301
+19-07-2024,Germany,Platinum,"Fleming, Martinez and Thornton",Bikes,Hybrid,Model-A,White,88,5,440,0,440
+22-06-2023,France,Silver,Barker-Andrews,Clothing,Electric,Model-B,Red,491,1,491,10,441.9
+05-08-2023,France,Gold,Garcia Group,Clothing,Mountain,Model-A,Red,403,4,1612,20,1289.6
+24-05-2024,United Kingdom,Platinum,"Medina, Johnson and Hansen",Accessories,Mountain,Model-B,Yellow,1058,4,4232,0,4232
+04-09-2022,Canada,Silver,Reynolds-Curtis,Clothing,Mountain,Model-A,Yellow,339,1,339,10,305.1
+24-05-2022,Canada,Platinum,Lindsey-Brown,Clothing,Hybrid,Model-A,Yellow,1220,3,3660,5,3477
+26-03-2022,Australia,Platinum,Morales-Faulkner,Components,Electric,Model-B,Black,1956,3,5868,15,4987.8
+23-08-2024,Canada,Silver,Ford PLC,Bikes,Road,Model-B,Black,1495,2,2990,15,2541.5
+20-02-2024,Australia,Gold,Burton-Wolfe,Accessories,Mountain,Model-D,Red,673,5,3365,15,2860.25
+22-01-2024,Australia,Gold,Thomas-Carrillo,Accessories,Hybrid,Model-B,White,359,1,359,0,359
+29-11-2023,Australia,Gold,Hancock-Bradford,Clothing,Road,Model-D,Red,695,5,3475,10,3127.5
+26-08-2023,United States,Silver,Wilson-Jackson,Accessories,Mountain,Model-C,Red,326,3,978,10,880.2
+04-11-2023,Australia,Platinum,"Patton, Bell and Ford",Bikes,Hybrid,Model-C,White,1341,5,6705,0,6705
+07-01-2022,United Kingdom,Silver,Prince Group,Accessories,Road,Model-C,Red,1231,3,3693,10,3323.7
+19-11-2022,United States,Silver,"Williams, Kemp and Harris",Accessories,Road,Model-C,Green,560,4,2240,10,2016
+08-11-2024,Canada,Platinum,Garcia-Velez,Bikes,Mountain,Model-C,White,1669,1,1669,20,1335.2
+06-04-2022,France,Platinum,"Guerra, Shelton and Weber",Bikes,Road,Model-C,Blue,1188,5,5940,10,5346
+21-09-2024,Australia,Platinum,"Cummings, Villarreal and Phillips",Components,Mountain,Model-D,Black,1763,2,3526,10,3173.4
+14-01-2023,United Kingdom,Silver,"Stephenson, Johnson and Mahoney",Clothing,Electric,Model-C,Red,537,1,537,10,483.3
+03-08-2023,Australia,Gold,Roberson Ltd,Accessories,Road,Model-B,Black,711,4,2844,0,2844
+15-11-2024,United States,Silver,"Brooks, Simpson and Acosta",Clothing,Hybrid,Model-B,Black,137,5,685,15,582.25
+05-07-2022,Australia,Gold,"Ramos, Guerra and Trujillo",Accessories,Electric,Model-B,Red,321,2,642,10,577.8
+26-08-2022,Germany,Gold,"Arnold, Bush and Jensen",Clothing,Mountain,Model-C,White,1805,1,1805,10,1624.5
+19-01-2022,Australia,Gold,"Duarte, Booth and Watson",Clothing,Electric,Model-B,Red,1030,1,1030,15,875.5
+27-07-2024,Germany,Platinum,Fisher-Edwards,Bikes,Road,Model-D,Yellow,1546,3,4638,10,4174.2
+30-06-2023,United Kingdom,Gold,"Moore, Oconnell and Lynch",Components,Road,Model-A,Red,175,3,525,0,525
+17-07-2024,Canada,Gold,Vaughn-Hayden,Components,Mountain,Model-D,White,1914,5,9570,0,9570
+23-11-2023,Germany,Silver,"Moore, Flores and Camacho",Components,Electric,Model-D,Green,1195,2,2390,0,2390
+11-04-2023,Canada,Gold,Mays and Sons,Clothing,Electric,Model-C,Yellow,190,1,190,5,180.5
+25-10-2024,Australia,Gold,"Montgomery, Clark and Green",Clothing,Mountain,Model-A,White,1037,1,1037,15,881.45
+25-02-2024,Canada,Silver,Smith-Martin,Accessories,Road,Model-C,Yellow,1551,5,7755,0,7755
+15-08-2022,Canada,Platinum,"Conner, Frank and Anderson",Components,Mountain,Model-A,Blue,193,5,965,10,868.5
+03-04-2023,Canada,Platinum,Church-Guzman,Components,Road,Model-D,Red,654,1,654,5,621.3
+14-06-2023,Australia,Silver,"Knox, Roberts and Mullins",Accessories,Mountain,Model-D,Black,1952,2,3904,0,3904
+09-11-2024,Canada,Platinum,Butler-Kane,Clothing,Hybrid,Model-C,White,986,1,986,15,838.1
+07-08-2022,United Kingdom,Gold,Burns Inc,Clothing,Hybrid,Model-C,Black,1236,3,3708,20,2966.4
+24-09-2024,France,Silver,Bowman-Curtis,Accessories,Hybrid,Model-C,Blue,150,1,150,20,120
+01-01-2022,United States,Silver,"Compton, Contreras and Erickson",Clothing,Electric,Model-C,White,1029,2,2058,15,1749.3
+14-01-2023,United Kingdom,Silver,Aguilar-West,Bikes,Road,Model-C,Green,1779,4,7116,15,6048.6
+13-06-2024,Canada,Platinum,Arellano-Holloway,Components,Road,Model-A,Red,1644,5,8220,15,6987
+26-10-2022,United States,Gold,Vazquez Inc,Clothing,Hybrid,Model-B,White,1719,1,1719,15,1461.15
+26-08-2024,Australia,Gold,Herring Ltd,Accessories,Electric,Model-A,Black,1691,4,6764,0,6764
+24-02-2022,Canada,Gold,Sherman-Leonard,Accessories,Hybrid,Model-D,White,1069,5,5345,0,5345
+01-12-2023,United States,Gold,"Dunlap, Rodriguez and Yates",Components,Mountain,Model-B,Red,441,4,1764,5,1675.8
+12-07-2024,Australia,Silver,Gaines-Peterson,Accessories,Hybrid,Model-A,White,858,2,1716,15,1458.6
+21-06-2024,United States,Gold,Ball Group,Accessories,Mountain,Model-A,Green,1486,2,2972,5,2823.4
+06-12-2022,United States,Platinum,Medina LLC,Components,Road,Model-A,Green,157,1,157,15,133.45
+14-06-2023,United States,Silver,Hunt-Mccoy,Bikes,Hybrid,Model-C,Yellow,361,2,722,0,722
+14-12-2024,Australia,Silver,Grant-Pierce,Accessories,Hybrid,Model-A,Red,1569,5,7845,15,6668.25
+11-07-2024,United States,Platinum,Carroll-Graham,Bikes,Mountain,Model-A,Yellow,620,2,1240,0,1240
+31-03-2024,United States,Silver,Hudson-Green,Clothing,Road,Model-D,Yellow,1557,2,3114,10,2802.6
+13-12-2022,Germany,Gold,Estrada-Hunt,Bikes,Electric,Model-D,Green,618,5,3090,20,2472
+29-09-2022,Germany,Silver,Salinas Inc,Bikes,Electric,Model-D,Red,590,5,2950,10,2655
+07-03-2022,Germany,Silver,Rangel-Ortiz,Accessories,Hybrid,Model-A,Black,698,1,698,0,698
+16-09-2023,United States,Platinum,Campbell Inc,Bikes,Mountain,Model-B,White,762,2,1524,20,1219.2
+03-04-2023,Canada,Platinum,Meza PLC,Components,Hybrid,Model-B,Green,1275,3,3825,0,3825
+04-07-2022,United Kingdom,Gold,Lewis LLC,Accessories,Hybrid,Model-B,Green,612,3,1836,20,1468.8
+03-07-2022,France,Platinum,Santana LLC,Bikes,Road,Model-A,Black,1375,4,5500,0,5500
+31-01-2022,Australia,Platinum,Cantrell-Nelson,Accessories,Mountain,Model-B,Blue,1668,4,6672,10,6004.8
+12-10-2024,Germany,Gold,Mccormick-Steele,Components,Mountain,Model-A,Blue,1021,5,5105,10,4594.5
+19-05-2022,Australia,Platinum,"Jones, King and Powell",Accessories,Road,Model-A,Green,1810,4,7240,15,6154
+06-10-2022,United States,Silver,Crawford-Fields,Clothing,Road,Model-D,Red,354,2,708,20,566.4
+10-02-2024,Canada,Platinum,"Kirk, Kim and Johnson",Components,Road,Model-D,Red,1964,4,7856,20,6284.8
+05-12-2024,United States,Platinum,Mason-Owens,Clothing,Electric,Model-C,Blue,1471,2,2942,10,2647.8
+11-08-2022,Australia,Silver,Lee LLC,Accessories,Mountain,Model-A,White,1721,2,3442,10,3097.8
+29-11-2023,Canada,Gold,Gibson PLC,Components,Road,Model-B,Red,1653,2,3306,20,2644.8
+03-11-2024,United States,Platinum,Reyes-Scott,Clothing,Mountain,Model-C,Black,341,1,341,5,323.95
+08-10-2022,Germany,Silver,"Vang, Bradshaw and Flowers",Components,Electric,Model-A,White,103,1,103,10,92.7
+11-04-2024,Australia,Silver,"Stevens, Dillon and Smith",Bikes,Hybrid,Model-D,White,60,2,120,0,120
+05-06-2022,United States,Silver,"Allison, Mckenzie and Fletcher",Components,Electric,Model-B,Yellow,938,4,3752,10,3376.8
+17-01-2024,Germany,Gold,Cox and Sons,Bikes,Mountain,Model-C,White,550,2,1100,20,880
+02-04-2022,United Kingdom,Silver,"Lewis, Jordan and Scott",Components,Mountain,Model-A,Red,798,1,798,10,718.2
+27-08-2023,Canada,Silver,Blake-Patel,Bikes,Electric,Model-A,Black,190,1,190,15,161.5
+10-06-2022,United Kingdom,Gold,"Schroeder, Ortega and Wagner",Bikes,Hybrid,Model-D,Blue,166,2,332,5,315.4
+03-03-2022,United States,Silver,"Brown, Archer and Williams",Components,Mountain,Model-D,Blue,195,4,780,20,624
+22-09-2023,Australia,Silver,"Robinson, Phelps and Ortega",Components,Road,Model-C,Yellow,632,5,3160,0,3160
+08-08-2022,United States,Gold,Pruitt-Mata,Clothing,Road,Model-A,Blue,1316,1,1316,5,1250.2
+13-04-2022,Germany,Platinum,Austin Group,Accessories,Mountain,Model-A,Yellow,880,3,2640,20,2112
+07-09-2022,France,Silver,Adkins-Reynolds,Accessories,Road,Model-B,Black,462,4,1848,5,1755.6
+04-11-2023,United Kingdom,Silver,"Cisneros, Branch and Green",Accessories,Hybrid,Model-D,White,1413,4,5652,15,4804.2
+26-02-2024,United Kingdom,Silver,"Porter, Martin and Anderson",Components,Hybrid,Model-B,Yellow,534,5,2670,20,2136
+29-10-2023,United States,Platinum,Rodriguez-York,Components,Mountain,Model-A,Green,1673,3,5019,15,4266.15
+12-08-2024,Germany,Silver,Scott LLC,Components,Road,Model-B,White,585,5,2925,5,2778.75
+14-10-2022,Germany,Platinum,"Delgado, Rivera and Johnson",Accessories,Electric,Model-A,Green,241,3,723,5,686.85
+02-11-2022,United States,Platinum,Johnson-Norton,Components,Mountain,Model-B,Blue,345,3,1035,5,983.25
+04-04-2023,Canada,Gold,Ramos-Baldwin,Bikes,Road,Model-A,White,1480,4,5920,15,5032
+06-10-2024,Germany,Platinum,Smith PLC,Components,Hybrid,Model-B,Green,718,4,2872,15,2441.2
+06-08-2022,France,Platinum,Young-Arnold,Components,Hybrid,Model-C,Green,1627,1,1627,0,1627
+07-12-2022,France,Gold,"Lang, Johnson and Dawson",Accessories,Electric,Model-D,Green,1700,1,1700,15,1445
+29-08-2023,France,Silver,"Howard, Perez and Hayes",Components,Hybrid,Model-A,Blue,428,4,1712,20,1369.6
+04-02-2022,Canada,Gold,Bell-Fuller,Accessories,Mountain,Model-C,Green,1918,5,9590,5,9110.5
+06-03-2024,Canada,Gold,Avila-Conrad,Clothing,Mountain,Model-A,Green,1859,2,3718,10,3346.2
+24-01-2023,United Kingdom,Gold,Williams Ltd,Bikes,Mountain,Model-C,Red,135,2,270,10,243
+30-04-2022,France,Platinum,"Jones, Jenkins and Hudson",Components,Hybrid,Model-B,Green,1383,4,5532,10,4978.8
+04-05-2022,United Kingdom,Platinum,Cross Ltd,Accessories,Electric,Model-A,Blue,1022,2,2044,10,1839.6
+22-03-2022,Canada,Platinum,Miranda-Barton,Clothing,Hybrid,Model-C,Black,470,3,1410,10,1269
+28-02-2022,Canada,Gold,"White, Valenzuela and Nolan",Accessories,Mountain,Model-D,White,1457,3,4371,5,4152.45
+08-12-2024,Australia,Gold,Freeman-Moore,Accessories,Mountain,Model-C,Black,316,4,1264,10,1137.6
+26-07-2022,United States,Silver,White and Sons,Clothing,Mountain,Model-B,Yellow,1310,4,5240,15,4454
+18-07-2022,United Kingdom,Silver,"Thomas, Mccoy and Chandler",Clothing,Hybrid,Model-B,Yellow,406,3,1218,10,1096.2
+15-09-2024,Australia,Platinum,Ryan-Brady,Accessories,Mountain,Model-C,Yellow,1871,4,7484,10,6735.6
+03-02-2024,Canada,Silver,Cohen-Smith,Accessories,Electric,Model-B,Black,1239,3,3717,20,2973.6
+24-12-2024,France,Silver,Thomas Ltd,Clothing,Mountain,Model-C,Red,1484,5,7420,15,6307
+04-06-2023,France,Silver,"Jackson, Rodriguez and Johnson",Components,Hybrid,Model-B,Black,340,3,1020,0,1020
+15-08-2024,Australia,Gold,"Hardy, May and Sparks",Clothing,Electric,Model-A,Yellow,402,2,804,20,643.2
+14-07-2022,United Kingdom,Gold,Flores Ltd,Components,Electric,Model-B,Yellow,456,3,1368,15,1162.8
+27-08-2022,France,Silver,Gordon-Aguilar,Accessories,Electric,Model-C,White,1494,2,2988,5,2838.6
+21-10-2023,United Kingdom,Silver,Phillips and Sons,Accessories,Electric,Model-A,Black,1041,2,2082,10,1873.8
+22-08-2023,Germany,Silver,Hicks-Gibson,Components,Mountain,Model-D,Blue,1709,5,8545,5,8117.75
+31-08-2022,Australia,Platinum,Robertson-Johnson,Accessories,Hybrid,Model-D,Blue,725,5,3625,20,2900
+26-06-2023,Germany,Silver,Hurley LLC,Accessories,Mountain,Model-B,Blue,1351,5,6755,20,5404
+18-01-2024,United Kingdom,Gold,Knapp LLC,Accessories,Electric,Model-D,White,1450,3,4350,10,3915
+25-07-2024,France,Platinum,Glover LLC,Clothing,Road,Model-D,Blue,50,2,100,10,90
+17-05-2024,Germany,Silver,"Barnett, Escobar and Miller",Accessories,Road,Model-D,Green,597,1,597,10,537.3
+27-07-2024,Germany,Platinum,"Barker, Paul and Mccullough",Accessories,Mountain,Model-B,Blue,1985,5,9925,10,8932.5
+21-07-2022,United Kingdom,Platinum,Booth Inc,Clothing,Hybrid,Model-D,Blue,1441,3,4323,5,4106.85
+28-06-2024,France,Platinum,"White, Williamson and Johnson",Components,Mountain,Model-C,Black,1401,2,2802,10,2521.8
+26-10-2023,Germany,Silver,Li-Peterson,Bikes,Electric,Model-B,Green,177,2,354,5,336.3
+09-06-2023,United States,Silver,Mcgee and Sons,Bikes,Electric,Model-D,Blue,1978,5,9890,15,8406.5
+20-01-2023,Canada,Gold,Stone Ltd,Components,Electric,Model-A,Yellow,1533,4,6132,20,4905.6
+07-02-2022,France,Gold,Flores-Williams,Components,Mountain,Model-C,White,123,2,246,5,233.7
+11-05-2022,Germany,Platinum,"Harper, Fox and Carroll",Bikes,Road,Model-B,Black,1516,4,6064,5,5760.8
+25-10-2023,Germany,Platinum,"Morales, Lane and Dennis",Components,Electric,Model-C,Yellow,1023,3,3069,20,2455.2
+25-08-2023,United Kingdom,Silver,Wells-House,Accessories,Electric,Model-D,White,584,5,2920,10,2628
+24-10-2024,Germany,Platinum,Figueroa PLC,Bikes,Road,Model-D,Black,1867,5,9335,5,8868.25
+07-03-2024,United States,Silver,Hoover-Roberts,Clothing,Road,Model-B,Black,1454,4,5816,0,5816
+02-06-2023,United States,Silver,Briggs LLC,Accessories,Mountain,Model-B,Black,1125,4,4500,15,3825
+23-03-2024,United Kingdom,Gold,"Robertson, Morgan and Kennedy",Components,Road,Model-D,Blue,1508,3,4524,10,4071.6
+31-07-2024,United States,Gold,Shaffer PLC,Clothing,Mountain,Model-C,Blue,1905,5,9525,0,9525
+13-11-2022,Australia,Silver,Lamb-Douglas,Components,Electric,Model-A,Blue,1455,5,7275,15,6183.75
+12-11-2024,Germany,Gold,"Aguilar, Clark and Warren",Components,Road,Model-C,Blue,1794,2,3588,15,3049.8
+16-01-2024,United Kingdom,Silver,"Barton, Saunders and Boyd",Clothing,Electric,Model-D,White,1897,1,1897,5,1802.15
+28-10-2022,France,Silver,Davis-Frazier,Accessories,Electric,Model-D,Yellow,284,4,1136,15,965.6
+13-04-2024,Canada,Platinum,Gibson-Gamble,Clothing,Electric,Model-A,White,97,2,194,10,174.6
+19-07-2024,Canada,Silver,Cooper Group,Components,Road,Model-B,White,592,2,1184,0,1184
+19-08-2022,United States,Silver,Aguilar-Henson,Components,Mountain,Model-A,Red,1821,1,1821,20,1456.8
+06-01-2022,United Kingdom,Platinum,Fernandez-Santos,Components,Road,Model-D,Green,1516,2,3032,10,2728.8
+15-09-2022,Australia,Gold,"Thomas, Ritter and Brown",Bikes,Road,Model-B,White,731,5,3655,0,3655
+03-08-2023,Canada,Platinum,Thomas Inc,Bikes,Road,Model-C,Black,1345,5,6725,15,5716.25
+27-03-2024,Canada,Gold,Perez PLC,Clothing,Road,Model-A,White,1338,4,5352,20,4281.6
+14-10-2023,United Kingdom,Platinum,Jones-Smith,Clothing,Road,Model-A,Green,879,4,3516,15,2988.6
+17-02-2022,Australia,Silver,Johnson-Wood,Components,Hybrid,Model-B,Red,1260,3,3780,15,3213
+07-02-2023,United Kingdom,Platinum,"Bell, Ferguson and Watts",Bikes,Road,Model-B,Black,809,2,1618,10,1456.2
+05-10-2022,United Kingdom,Platinum,Watson-Lambert,Bikes,Mountain,Model-D,Green,118,1,118,10,106.2
+15-05-2022,Germany,Silver,Bell-Shaw,Clothing,Mountain,Model-D,Red,525,3,1575,10,1417.5
+01-11-2023,Australia,Platinum,Kelly-Nichols,Bikes,Mountain,Model-A,Black,1776,2,3552,0,3552
+28-04-2024,France,Platinum,Chambers-Young,Accessories,Electric,Model-D,Green,1748,1,1748,5,1660.6
+03-04-2022,Australia,Platinum,"Thompson, Eaton and Barker",Bikes,Electric,Model-D,Blue,220,4,880,0,880
+10-01-2023,United States,Platinum,"Webb, Castillo and Peterson",Bikes,Electric,Model-C,White,1876,2,3752,10,3376.8
+29-06-2024,Germany,Gold,Wolfe-Valencia,Clothing,Hybrid,Model-D,Blue,355,4,1420,5,1349
+24-08-2022,France,Platinum,Glover Inc,Components,Hybrid,Model-C,White,523,5,2615,15,2222.75
+07-02-2023,Canada,Platinum,Nguyen-Browning,Bikes,Electric,Model-A,White,1049,3,3147,0,3147
+25-08-2023,France,Silver,"Durham, Reyes and Mills",Bikes,Road,Model-A,Red,174,5,870,20,696
+16-01-2023,United Kingdom,Gold,French PLC,Accessories,Hybrid,Model-D,Red,1777,1,1777,20,1421.6
+28-11-2024,United States,Silver,Hall Inc,Bikes,Mountain,Model-D,Blue,1687,4,6748,20,5398.4
+09-08-2024,United Kingdom,Gold,Mueller-Short,Clothing,Electric,Model-D,Yellow,1078,1,1078,0,1078
+14-03-2024,Germany,Silver,Maldonado-Brady,Components,Road,Model-A,White,1661,4,6644,0,6644
+17-06-2022,United States,Silver,"Short, Gallegos and Berry",Components,Hybrid,Model-A,Green,1324,4,5296,20,4236.8
+16-06-2023,Germany,Silver,Parker-Gray,Accessories,Electric,Model-A,Yellow,956,3,2868,20,2294.4
+25-05-2024,France,Gold,Hurst-Thornton,Clothing,Hybrid,Model-A,White,768,5,3840,20,3072
+12-11-2023,United States,Platinum,Castro-Barber,Accessories,Hybrid,Model-B,Black,424,3,1272,10,1144.8
+06-05-2024,France,Silver,Reynolds Group,Accessories,Road,Model-A,Green,335,4,1340,0,1340
+13-07-2023,Canada,Gold,Gutierrez Inc,Components,Electric,Model-A,White,242,4,968,5,919.6
+23-01-2022,United States,Platinum,"Johnston, Wilson and Parker",Bikes,Road,Model-B,Yellow,913,2,1826,20,1460.8
+10-03-2024,Australia,Silver,Robinson-Peterson,Clothing,Mountain,Model-A,White,128,4,512,15,435.2
+07-07-2024,United States,Gold,Long-Guerrero,Components,Mountain,Model-A,Black,127,2,254,10,228.6
+19-10-2024,Canada,Platinum,Walters-Kelley,Bikes,Electric,Model-B,Black,1875,2,3750,0,3750
+20-09-2024,United Kingdom,Platinum,Carey PLC,Components,Electric,Model-D,Blue,1670,2,3340,20,2672
+10-01-2024,United Kingdom,Gold,"Joseph, Berger and Haynes",Bikes,Electric,Model-C,Blue,202,3,606,20,484.8
+29-05-2022,United Kingdom,Silver,"Crawford, Wright and Harrison",Components,Electric,Model-B,White,92,3,276,20,220.8
+28-02-2022,France,Silver,Smith-Joyce,Bikes,Hybrid,Model-B,Blue,306,4,1224,0,1224
+27-06-2023,Australia,Platinum,Livingston-Long,Bikes,Mountain,Model-C,Green,1372,4,5488,5,5213.6
+10-07-2024,United States,Gold,Weiss Ltd,Components,Mountain,Model-B,Red,572,2,1144,15,972.4
+05-06-2024,France,Platinum,Reynolds Inc,Clothing,Road,Model-A,White,1397,4,5588,0,5588
+15-03-2024,France,Silver,"Barber, Moss and Wallace",Bikes,Hybrid,Model-C,Green,1821,3,5463,0,5463
+14-04-2023,United States,Platinum,Kennedy PLC,Clothing,Hybrid,Model-C,Green,1770,5,8850,20,7080
+07-01-2024,Australia,Platinum,"Medina, Clark and Bennett",Clothing,Road,Model-B,Green,561,2,1122,0,1122
+04-06-2022,Canada,Gold,"Parrish, Marquez and Myers",Components,Electric,Model-D,Yellow,441,2,882,20,705.6
+20-10-2024,Australia,Platinum,Brown Ltd,Accessories,Road,Model-D,Green,50,3,150,20,120
+26-09-2024,Germany,Silver,Medina-Chang,Bikes,Road,Model-C,White,397,4,1588,0,1588
+21-04-2022,Australia,Gold,Davis Inc,Bikes,Mountain,Model-D,Blue,1917,5,9585,0,9585
+04-07-2024,France,Platinum,Holmes-Garcia,Bikes,Mountain,Model-D,Green,953,3,2859,10,2573.1
+11-05-2022,France,Gold,Rodgers Inc,Components,Electric,Model-A,White,1215,2,2430,0,2430
+15-11-2022,Germany,Platinum,Simpson Inc,Accessories,Electric,Model-D,Green,950,5,4750,0,4750
+25-06-2023,United Kingdom,Platinum,"Hernandez, Fuentes and Ramos",Clothing,Electric,Model-C,Red,549,2,1098,0,1098
+23-06-2023,United Kingdom,Platinum,Owens-Edwards,Components,Mountain,Model-A,Green,980,2,1960,20,1568
+28-03-2023,Australia,Platinum,Murray-Montoya,Components,Hybrid,Model-C,Blue,749,2,1498,5,1423.1
+13-12-2022,United Kingdom,Gold,Reed-Clark,Components,Hybrid,Model-D,Green,466,2,932,15,792.2
+01-06-2023,United States,Silver,Black-Cook,Clothing,Road,Model-D,Blue,1244,5,6220,5,5909
+25-04-2024,United Kingdom,Platinum,Gordon PLC,Components,Road,Model-A,Blue,1321,2,2642,20,2113.6
+10-11-2024,France,Gold,Clark Inc,Clothing,Road,Model-A,Yellow,949,4,3796,20,3036.8
+06-11-2022,Australia,Platinum,Benson-Hill,Accessories,Electric,Model-C,Blue,1992,5,9960,5,9462
+16-04-2022,Canada,Silver,Cobb Inc,Accessories,Hybrid,Model-D,Red,1999,4,7996,0,7996
+08-06-2023,Germany,Gold,Cohen-Walter,Accessories,Mountain,Model-A,White,1670,4,6680,15,5678
+10-10-2024,United Kingdom,Platinum,Wright-Powers,Accessories,Hybrid,Model-A,Yellow,982,3,2946,5,2798.7
+03-07-2024,United States,Silver,Barnes-Greer,Accessories,Hybrid,Model-D,White,770,5,3850,5,3657.5
+31-07-2023,France,Gold,"Willis, Mendoza and Fry",Bikes,Road,Model-B,Green,708,3,2124,20,1699.2
+13-06-2023,United Kingdom,Silver,"Mclean, Lee and Scott",Components,Mountain,Model-B,Green,1204,5,6020,20,4816
+04-07-2022,France,Platinum,"Griffith, Decker and Martinez",Components,Electric,Model-C,Blue,258,1,258,0,258
+01-02-2023,Canada,Silver,Holmes LLC,Components,Mountain,Model-B,Blue,1730,1,1730,15,1470.5
+18-05-2023,United Kingdom,Platinum,Maddox-Mcdonald,Components,Mountain,Model-B,Blue,1942,4,7768,10,6991.2
+18-06-2023,Australia,Silver,Anderson-Cooper,Bikes,Road,Model-D,Blue,360,5,1800,15,1530
+09-05-2023,Canada,Silver,"Evans, Hall and Little",Clothing,Road,Model-C,Blue,901,2,1802,10,1621.8
+21-07-2023,Australia,Silver,Evans and Sons,Components,Electric,Model-A,Yellow,1419,3,4257,5,4044.15
+22-12-2022,Germany,Platinum,Anderson Group,Components,Hybrid,Model-A,Black,1776,4,7104,10,6393.6
+10-12-2022,Australia,Platinum,Rogers-Baker,Components,Mountain,Model-D,Red,733,5,3665,5,3481.75
+25-02-2024,France,Silver,Mclean-Patel,Accessories,Road,Model-C,Yellow,788,3,2364,10,2127.6
+07-07-2024,United States,Silver,"Oliver, Fisher and Washington",Clothing,Electric,Model-A,Red,855,1,855,15,726.75
+08-08-2022,Germany,Gold,"Christensen, Mcguire and Potter",Components,Mountain,Model-C,Yellow,1366,4,5464,0,5464
+01-06-2023,United Kingdom,Silver,Parker-Martin,Components,Electric,Model-B,Yellow,686,1,686,0,686
+27-01-2024,United States,Platinum,Horn-Thompson,Clothing,Hybrid,Model-D,White,733,2,1466,10,1319.4
+08-12-2023,France,Silver,"Daugherty, Garner and Moreno",Bikes,Electric,Model-A,Green,892,3,2676,15,2274.6
+18-07-2022,Australia,Gold,Lynch-Edwards,Accessories,Road,Model-D,Green,1875,3,5625,10,5062.5
+09-11-2024,Germany,Silver,Wood-Gibbs,Components,Road,Model-D,Yellow,1457,5,7285,20,5828
+07-07-2023,Canada,Silver,Wallace Ltd,Clothing,Road,Model-A,White,2000,4,8000,5,7600
+14-11-2024,Australia,Silver,Nguyen-Tyler,Clothing,Mountain,Model-A,Blue,1300,3,3900,5,3705
+26-08-2022,Germany,Gold,Miller Group,Bikes,Electric,Model-C,Blue,1271,5,6355,15,5401.75
+04-04-2022,Australia,Gold,Roberts Group,Components,Hybrid,Model-C,Red,1039,1,1039,0,1039
+24-02-2023,Germany,Gold,Banks and Sons,Accessories,Hybrid,Model-A,Green,1699,2,3398,10,3058.2
+24-05-2022,France,Silver,"Harris, Jenkins and Herrera",Components,Electric,Model-B,Blue,1211,5,6055,10,5449.5
+25-10-2022,Australia,Platinum,"Richmond, Morales and Reid",Accessories,Electric,Model-A,Red,517,5,2585,0,2585
+30-08-2023,Australia,Gold,Joseph LLC,Clothing,Mountain,Model-A,Red,253,1,253,5,240.35
+04-09-2023,United Kingdom,Gold,Thomas-Bowen,Clothing,Hybrid,Model-A,Green,836,3,2508,5,2382.6
+29-12-2022,France,Silver,"Booker, Williams and Dominguez",Accessories,Road,Model-A,Green,112,3,336,15,285.6
+27-02-2023,Canada,Silver,Griffin-Martin,Clothing,Hybrid,Model-A,Red,1269,1,1269,0,1269
+09-08-2023,France,Gold,Kelly PLC,Bikes,Road,Model-B,White,538,2,1076,5,1022.2
+10-05-2024,United States,Gold,Massey PLC,Clothing,Road,Model-A,Blue,1020,3,3060,10,2754
+09-12-2024,United Kingdom,Gold,Hoffman LLC,Bikes,Electric,Model-C,Blue,1552,1,1552,15,1319.2
+20-05-2024,Germany,Silver,Fernandez Inc,Accessories,Hybrid,Model-C,Blue,1961,4,7844,20,6275.2
+06-07-2024,United States,Platinum,Jones LLC,Bikes,Mountain,Model-D,Red,1861,1,1861,10,1674.9
+27-05-2022,Germany,Gold,Lucero Ltd,Accessories,Hybrid,Model-A,Yellow,476,5,2380,20,1904
+30-01-2023,United Kingdom,Silver,Weeks-Proctor,Components,Road,Model-B,Blue,523,2,1046,10,941.4
+15-07-2023,Australia,Silver,"Barnes, Clark and Lewis",Accessories,Electric,Model-C,White,335,1,335,0,335
+16-11-2022,Australia,Silver,"Tran, Rodriguez and Peterson",Accessories,Electric,Model-A,Yellow,1408,3,4224,10,3801.6
+18-11-2024,Australia,Gold,Robinson-Herrera,Accessories,Road,Model-B,Green,247,3,741,10,666.9
+28-07-2023,Germany,Silver,"Robinson, Carroll and Bridges",Components,Mountain,Model-C,Yellow,50,1,50,0,50
+07-08-2022,Canada,Silver,Martin Inc,Clothing,Mountain,Model-C,Green,505,1,505,20,404
+23-04-2022,United States,Gold,"Doyle, Edwards and Johnson",Components,Road,Model-B,Red,612,3,1836,10,1652.4
+14-03-2022,France,Platinum,Ruiz-Massey,Components,Mountain,Model-D,Blue,908,2,1816,10,1634.4
+25-06-2024,United Kingdom,Gold,Gomez Group,Accessories,Electric,Model-B,Black,1951,2,3902,0,3902
+15-04-2024,United Kingdom,Gold,Marks and Sons,Components,Road,Model-D,White,924,5,4620,15,3927
+11-04-2023,Germany,Platinum,Cooley-Bush,Clothing,Electric,Model-B,Blue,1022,1,1022,15,868.7
+15-03-2023,United Kingdom,Platinum,Davis Inc,Accessories,Road,Model-C,White,1526,1,1526,15,1297.1
+28-12-2024,United States,Gold,"Simmons, Franklin and Rogers",Bikes,Hybrid,Model-A,White,1417,1,1417,5,1346.15
+22-08-2023,United Kingdom,Platinum,Bailey PLC,Accessories,Electric,Model-C,White,1557,2,3114,20,2491.2
+14-01-2023,Australia,Gold,"Diaz, Gilbert and Diaz",Accessories,Hybrid,Model-D,Green,1030,5,5150,10,4635
+20-01-2024,France,Gold,James-James,Components,Hybrid,Model-B,Black,324,4,1296,5,1231.2
+24-07-2024,United Kingdom,Gold,Rodriguez-Mckay,Components,Mountain,Model-A,Blue,1481,1,1481,10,1332.9
+02-07-2024,Germany,Gold,Cunningham-Dixon,Components,Road,Model-D,Yellow,1271,3,3813,20,3050.4
+12-01-2022,Germany,Gold,Johnson Group,Components,Hybrid,Model-B,Green,1974,3,5922,20,4737.6
+25-05-2024,Germany,Platinum,"Gray, Graves and Rangel",Accessories,Road,Model-D,Black,780,3,2340,0,2340
+03-11-2024,Canada,Platinum,Freeman Ltd,Accessories,Electric,Model-A,Blue,482,3,1446,0,1446
+15-07-2024,United States,Gold,"Edwards, Gonzales and Leonard",Components,Road,Model-A,Blue,477,2,954,15,810.9
+07-11-2024,France,Gold,Smith-Erickson,Clothing,Road,Model-C,Green,1571,3,4713,10,4241.7
+05-03-2022,Germany,Gold,Gonzalez-Patel,Clothing,Mountain,Model-A,Black,170,5,850,10,765
+03-11-2022,United Kingdom,Platinum,"Ware, Ford and Caldwell",Bikes,Road,Model-B,Blue,1584,4,6336,10,5702.4
+28-02-2022,France,Gold,Davis PLC,Clothing,Mountain,Model-D,White,1469,2,2938,10,2644.2
+04-07-2024,Australia,Platinum,Long-Rodriguez,Bikes,Mountain,Model-C,Green,1108,5,5540,10,4986
+09-09-2024,Canada,Silver,Marshall-Berger,Clothing,Hybrid,Model-D,Black,1662,5,8310,0,8310
+12-08-2022,United States,Gold,Garcia and Sons,Accessories,Mountain,Model-B,Green,1926,4,7704,5,7318.8
+18-07-2023,United States,Gold,Maxwell-Hernandez,Components,Mountain,Model-A,Red,760,3,2280,20,1824
+26-01-2022,France,Silver,Baker-Rice,Bikes,Mountain,Model-B,Red,489,2,978,15,831.3
+01-06-2022,France,Silver,Lewis Ltd,Clothing,Road,Model-D,Blue,202,4,808,10,727.2
+22-05-2024,Germany,Silver,Davis-Chang,Components,Hybrid,Model-A,Yellow,756,4,3024,10,2721.6
+26-09-2023,United States,Silver,Palmer-Mata,Components,Hybrid,Model-A,Black,837,3,2511,15,2134.35
+10-11-2022,France,Platinum,Sweeney Group,Components,Electric,Model-B,Yellow,1436,2,2872,0,2872
+22-08-2022,Australia,Gold,"Jacobs, Perez and Hall",Components,Electric,Model-C,White,960,5,4800,10,4320
+05-05-2023,United States,Gold,Sutton-Keller,Bikes,Mountain,Model-C,Green,1301,5,6505,15,5529.25
+23-05-2023,United States,Gold,Kemp-Valdez,Components,Hybrid,Model-D,Blue,740,1,740,20,592
+16-10-2022,United Kingdom,Platinum,Jensen-Nichols,Accessories,Hybrid,Model-C,White,1376,4,5504,0,5504
+11-11-2022,United States,Platinum,"Martin, Williams and Young",Components,Electric,Model-B,Blue,1783,1,1783,15,1515.55
+04-04-2023,France,Silver,"Gomez, Vega and Luna",Clothing,Road,Model-A,Red,747,4,2988,20,2390.4
+05-07-2022,United Kingdom,Gold,Stanley-Wilson,Accessories,Road,Model-A,Red,1004,4,4016,5,3815.2
+29-10-2023,Australia,Silver,"Meyer, Donaldson and Frank",Clothing,Road,Model-C,Green,1461,1,1461,15,1241.85
+10-12-2023,Germany,Platinum,Wilson Ltd,Components,Road,Model-B,White,681,5,3405,5,3234.75
+28-09-2022,France,Gold,Munoz LLC,Accessories,Road,Model-C,White,446,3,1338,20,1070.4
+28-10-2024,Australia,Silver,Smith-Gibbs,Accessories,Mountain,Model-B,Red,829,3,2487,10,2238.3
+17-03-2024,France,Platinum,Payne-Espinoza,Components,Electric,Model-C,Red,695,2,1390,5,1320.5
+12-04-2022,United Kingdom,Silver,Hunter-Mathews,Bikes,Road,Model-D,Red,133,4,532,0,532
+12-08-2024,France,Platinum,"Woodard, Maxwell and Ruiz",Clothing,Mountain,Model-A,White,674,1,674,5,640.3
+12-10-2022,Canada,Gold,Marks-Johnson,Accessories,Electric,Model-D,Red,921,1,921,5,874.95

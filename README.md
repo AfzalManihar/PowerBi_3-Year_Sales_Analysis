@@ -1,7 +1,4 @@
-# 📊 3-Year Sales Analysis Dashboard (2022-2024)
-
----
-
+# 3-Year Sales Analysis Dashboard (2022-2024) 📺
 ## Introduction
 
 The **3-Year Sales Analysis Dashboard** project provides a detailed look at sales data from 2022 to 2024. Analyzing this multi-year data is key for businesses to understand long-term performance, find growth areas, and make smart strategic decisions.
@@ -61,6 +58,6 @@ This project empowers decision-makers to identify trends and focus on high-impac
 
 ## Connect with Me
 
--   **LinkedIn:** [Your LinkedIn Profile Link]
+-  *LinkedIn*: [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
 
 ⭐ Don’t forget to star the repository if you find it valuable!

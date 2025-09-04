@@ -23,7 +23,7 @@ This project aims to achieve the following:
 ## Dashboard
 
 ---
-<img src="https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/Sales-dashboard-Final.png" alt="Sales Dashboard" width="600"/>
+<img width="1325" height="743" src="https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/Sales-dashboard-Final.png" alt="Sales Dashboard" width="600"/>
 
 ---
 

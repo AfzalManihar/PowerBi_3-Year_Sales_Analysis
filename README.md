@@ -23,7 +23,9 @@ This project aims to achieve the following:
 ## Dashboard
 
 ---
-<img https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/Sales-dashboard-Final.png/>
+
+[![3-Year Sales Preview](images/sales_preview.png)](https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/sales_data_2022_2024.csv)
+
 
 ---
 

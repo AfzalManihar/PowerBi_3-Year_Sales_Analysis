@@ -23,14 +23,14 @@ This project aims to achieve the following:
 ## Dashboard
 
 ---
-<img C:\Users\afzal\Pictures\Screenshots\Screenshot 2025-09-04 210644.png/>
+<img https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/Sales-dashboard-Final.png/>
 
 ---
 
 ## Visualization Tools
 
 -   **Tool used 🛠️:** Power BI
--   **Data Set Used:** [[Link to your dataset](https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/Sales-dashboard-Final.png)]
+-   **Data Set Used:** [[Link to your dataset](https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/sales_data_2022_2024.csv)]
 
 This dashboard uses a variety of visuals to present complex data clearly:
 

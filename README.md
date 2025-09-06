@@ -30,7 +30,7 @@ This project aims to achieve the following:
 ## Visualization Tools
 
 -   **Tool used 🛠️:** Power BI
--   **Data Set Used:** [[Link to your dataset](https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/sales_data_2022_2024.csv)]
+-   **Data Set Used:** [[dataset](https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis/blob/main/sales_data_2022_2024.csv)]
 
 This dashboard uses a variety of visuals to present complex data clearly:
 
